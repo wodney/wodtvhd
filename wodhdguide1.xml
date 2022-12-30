@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO Este Brazil">
+    <display-name lang="pt">HBO Este Brazil</display-name>
+    <url>http://www.hbobrasil.com</url>
+  </channel>
+  <channel id="HBO Oeste Brazil">
+    <display-name lang="pt">HBO Oeste Brazil</display-name>
+    <url>http://www.hbobrasil.com</url>
+  </channel>
+  <channel id="HBO PLUS BRASIL">
+    <display-name lang="pt">HBO PLUS BRASIL</display-name>
+    <url>http://www.hbobrasil.com</url>
+  </channel>
+  <channel id="HBO Xtreme Brazil">
+    <display-name lang="pt">HBO Xtreme Brazil</display-name>
+    <url>http://www.hbobrasil.com</url>
+  </channel>
+  <channel id="HBO Family Este Brz">
+    <display-name lang="pt">HBO Family Este Brz</display-name>
+    <url>http://www.hbobrasil.com</url>
+  </channel>
+  <channel id="HBOSIGNATURE BR">
+    <display-name lang="pt">HBOSIGNATURE BR</display-name>
+    <url>http://www.hbobrasil.com</url>
+  </channel>
+  <channel id="HBO Mundi Brazil">
+    <display-name lang="pt">HBO Mundi Brazil</display-name>
+    <url>http://www.hbobrasil.com</url>
+  </channel>
+  <channel id="HBO POP Brazil">
+    <display-name lang="pt">HBO POP Brazil</display-name>
+    <url>http://www.hbobrasil.com</url>
+  </channel>
+  <programme start="20221230025016 +0000" stop="20221230043636 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Encurralados em Veneza</title>
+    <title lang="xx">Veneciafrenia</title>
+    <desc lang="pt">Álex de la Iglesia dirige este thriller de terror em que um grupo de espanhóis vai a Veneza para se divertir, mas acaba encontrando uma população local não muito amistosa para com os turistas, que terão que lutar por suas vidas e fugir.(n)</desc>
+  </programme>
+  <programme start="20221230043636 +0000" stop="20221230053625 +0000" channel="HBO Este Brazil">
+    <title lang="pt">His Dark Materials - Fronteiras do Universo</title>
+    <title lang="xx">His Dark Materials: Season 3 - 7</title>
+    <desc lang="pt">Ep. 7 - O capítulo final da série de fantasia épica vê Lyra e Will indo para um lugar do qual ninguém jamais retornou. À medida que a guerra de Asriel contra a Autoridade se aproxima, eles aprenderão que salvar o mundo vem a um preço terrível.(n)</desc>
+  </programme>
+  <programme start="20221230053625 +0000" stop="20221230063537 +0000" channel="HBO Este Brazil">
+    <title lang="pt">His Dark Materials - Fronteiras do Universo</title>
+    <title lang="xx">His Dark Materials: Season 3 - 8</title>
+    <desc lang="pt">Ep. 8 - O capítulo final da série de fantasia épica vê Lyra e Will indo para um lugar do qual ninguém jamais retornou. À medida que a guerra de Asriel contra a Autoridade se aproxima, eles aprenderão que salvar o mundo vem a um preço terrível.(n)</desc>
+  </programme>
+  <programme start="20221230063537 +0000" stop="20221230090015 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Wonder Woman</title>
+    <desc lang="pt">Antes de se transformar na Mulher Maravilha, ela era Diana, a princesa das Amazonas, treinada para ser uma guerreira invencível. Criada na ilha paradisíaca de Themyscira, Diana deixa o local quando um piloto americano (Chris Pine - Star Trek films) se acidenta na costa e fala sobre um grande conflito que acontece lá fora. Convencida de que pode deter a ameaça e lutar ao lado dos homens para acabar com todas as guerras, Diana descobrirá os seus poderes, e seu verdadeiro destino.(n)</desc>
+  </programme>
+  <programme start="20221230090015 +0000" stop="20221230105517 +0000" channel="HBO Este Brazil">
+    <title lang="pt">A Lenda de Tarzan</title>
+    <title lang="xx">The Legend Of Tarzan</title>
+    <desc lang="pt">David Yates dirige Alexander Skarsgård e Margot Robbie nesta aventura do mítico rei da selva na qual, após vários anos vivendo em Londres, Tarzan e Jane retornam ao Congo e são emboscados por um abominável colonialista.(n)</desc>
+  </programme>
+  <programme start="20221230105517 +0000" stop="20221230132451 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Animais Fantásticos: Os Segredos De Dumbledore</title>
+    <title lang="xx">Fantastic Beasts: The Secrets Of Dumbledore</title>
+    <desc lang="pt">Você está convidado a retornar à magia. Os anos se passaram e o poder de Grindelwald cresce cada vez mais. Incapaz de detê-lo sozinho, Dumbledore confia a Newt Scamander liderar uma equipe de magos, bruxas - e um valente trouxa - em uma missão que o leva ao coração do exército do mago das trevas. Mas com tanto em jogo, por quanto tempo Dumbledore pode ficar à margem?(n)</desc>
+  </programme>
+  <programme start="20221230132451 +0000" stop="20221230160948 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Homem-Aranha: Sem Volta para Casa (Versão Estendida)</title>
+    <title lang="xx">Spider-Man: No Way Home: The More Fun Stuff</title>
+    <desc lang="pt">Tom Holland, Zendaya e Benedict Cumberbatch estrelam esta ainda mais divertida versão estendida desta aventura em que o Homem-Aranha enfrenta seus maiores inimigos depois que o Dr. Estranho, sem querer, abre uma fenda para o Multiverso.(n)</desc>
+  </programme>
+  <programme start="20221230160948 +0000" stop="20221230175011 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Venom: Tempo de Carnificina</title>
+    <title lang="xx">Venom: Let There Be Carnage</title>
+    <desc lang="pt">Tom Hardy retorna como Eddie Brock, o anfitrião do brutal simbionte Venom. Enquanto homem e alienígena lutam para se acostumar um com o outro, Eddie tenta relançar sua carreira entrevistando o assassino em série Cletus Kasady (Woody Harrelson). Mas quando Carnificina, o simbionte de Kasady, o ajuda a fugir da prisão, Venom e Eddie devem unir forças para derrotá-los.(n)</desc>
+  </programme>
+  <programme start="20221230175011 +0000" stop="20221230201959 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Matrix Resurrections</title>
+    <title lang="xx">Matrix Resurrections, The</title>
+    <desc lang="pt">A diretora Lana Wachowski reúne Keanu Reeves e Carrie-Anne Moss nos papéis icônicos de Neo e Trinity no quarto filme da franquia Matrix. 20 anos passados desde que Neo selou a paz com as máquinas, Thomas A. Anderson ainda sente que algo não está certo. E quando Morpheus reaparece com uma pílula vermelha na mão, Neo se vê mais uma vez indo atrás do coelho branco - e de Trinity.(n)</desc>
+  </programme>
+  <programme start="20221230201959 +0000" stop="20221230222505 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Mad Max: Fury Road</title>
+    <desc lang="pt">Max, um ex-policial que há anos vive como um guerreiro das estradas, acaba sendo capturado por Immortan Joe, líder de uma seita de guerreiros maníacos dos desertos apocalípticos da Austrália. Ele é preso, usado como fonte de sangue, como se fosse um saco de transfusão vivo, e é preso à frente de um carro de guerra. Durante uma perseguição, consegue criar uma situação para escapar, mas logo se vê diante de um dilema: ele precisa decidir se vai ajudar a Imperatriz Furiosa, rainha guerreira do grupo de Joe e agora rebelada, que pretende resgatar um grupo de garotas mantidas como escravas sexuais, ou se vai voltar à solidão das estradas, lutando para se manter vivo, encontrar água, comida e gasolina, deixando as jovens à própria sorte.(n)</desc>
+  </programme>
+  <programme start="20221230222505 +0000" stop="20221230230036 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Funk.Doc</title>
+    <title lang="xx">Funk.Doc:</title>
+    <desc lang="pt">Após ser banido dos clubes, os bailes funk se refugiam nas comunidades cariocas. A marginalização gera novas canções. Atuando como bode expiatório para as contradições brasileiras, o funk é perseguido nas ruas, nos tribunais e nos jornais.(n)</desc>
+  </programme>
+  <programme start="20221230230036 +0000" stop="20221231010125 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Uncharted - Fora do Mapa</title>
+    <title lang="xx">Uncharted</title>
+    <desc lang="pt">Tom Holland e Mark Wahlberg protagonizam esta aventura baseada na série de videogames de mesmo nome e embarcam em uma perigosa caçada ao tesouro na cidade de El Dorado. Mas à medida que os segredos vêm à tona, a dupla mergulha em uma corrida vertiginosa para alcançar o prêmio antes que um inimigo impiedoso chegue a ele primeiro.(n)</desc>
+  </programme>
+  <programme start="20221231010125 +0000" stop="20221231015028 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Patrulha do Destino</title>
+    <title lang="xx">Casey Patrol</title>
+  </programme>
+  <programme start="20221231015028 +0000" stop="20221231043553 +0000" channel="HBO Este Brazil">
+    <title lang="pt">Homem-Aranha: Sem Volta para Casa (Versão Estendida)</title>
+    <title lang="xx">Spider-Man: No Way Home: The More Fun Stuff</title>
+    <desc lang="pt">Tom Holland, Zendaya e Benedict Cumberbatch estrelam esta ainda mais divertida versão estendida desta aventura em que o Homem-Aranha enfrenta seus maiores inimigos depois que o Dr. Estranho, sem querer, abre uma fenda para o Multiverso.(n)</desc>
+  </programme>
+  <programme start="20221230024501 +0000" stop="20221230051634 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Aquaman</title>
+    <desc lang="pt">Do diretor James Wan (Invocação do Mal) vem Aquaman, uma incrível aventura submarina do universo cinematográfico DC, estrelado por Jason Momoa no papel do clássico herói dos sete mares. Filho de um humano e da rainha Atlanna (Nicole Kidman), Arthur Curry deve confrontar seu tirano meio-irmão Orm e reivindicar seu lugar como rei da Atlântida para evitar a iminente guerra entre a terra e o oceano.(n)</desc>
+  </programme>
+  <programme start="20221230051634 +0000" stop="20221230072503 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Mad Max: Fury Road</title>
+    <desc lang="pt">Max, um ex-policial que há anos vive como um guerreiro das estradas, acaba sendo capturado por Immortan Joe, líder de uma seita de guerreiros maníacos dos desertos apocalípticos da Austrália. Ele é preso, usado como fonte de sangue, como se fosse um saco de transfusão vivo, e é preso à frente de um carro de guerra. Durante uma perseguição, consegue criar uma situação para escapar, mas logo se vê diante de um dilema: ele precisa decidir se vai ajudar a Imperatriz Furiosa, rainha guerreira do grupo de Joe e agora rebelada, que pretende resgatar um grupo de garotas mantidas como escravas sexuais, ou se vai voltar à solidão das estradas, lutando para se manter vivo, encontrar água, comida e gasolina, deixando as jovens à própria sorte.(n)</desc>
+  </programme>
+  <programme start="20221230072503 +0000" stop="20221230090010 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">O Sétimo Dia</title>
+    <title lang="xx">Seventh Day, The</title>
+    <desc lang="pt">Guy Pearce interpreta um renomado exorcista que descobre o verdadeiro significado do inferno na Terra quando ele e seu jovem aprendiz tentam deter a possessão demoníaca de um menino.(n)</desc>
+  </programme>
+  <programme start="20221230090010 +0000" stop="20221230102547 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Mamãe</title>
+    <title lang="xx">Umma</title>
+    <desc lang="pt">Amanda (Sandra Oh) e sua filha levam uma vida tranquila em uma fazenda nos EUA, mas quando os restos mortais de sua mãe chegam da Coreia, Amanda é assombrada por seu espírito, e pelo medo de se tornar a mulher que mais temia.(n)</desc>
+  </programme>
+  <programme start="20221230102547 +0000" stop="20221230120044 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">No Olho do Tornado</title>
+    <title lang="xx">Into The Storm</title>
+    <desc lang="pt">O poder da natureza ameaça destruir uma pequena cidade. Enquanto algumas pessoas buscam a origem dos tornados, outras fogem para salvar suas vidas.(n)</desc>
+  </programme>
+  <programme start="20221230120044 +0000" stop="20221230144518 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Elvis</title>
+    <desc lang="pt">Baz Luhrmann (O Grande Gatsby) dirige Austin Butler e o vencedor do Oscar® Tom Hanks em um épico filme musical que segue a história da lenda do rock &amp; roll Elvis Presley do ponto de vista de seu controverso agente, o "Coronel" Tom Parker.(n)</desc>
+  </programme>
+  <programme start="20221230144518 +0000" stop="20221230164501 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">A Vida é Agora</title>
+    <title lang="xx">Here Today</title>
+    <desc lang="pt">Billy Crystal dirige e estrela esta comédia emocionante que redefine o significado da amizade e da confiança. Quando o veterano escritor de comédias Charlie Berns (Crystal), que está lentamente perdendo o controle de sua realidade, conhece a jovem cantora Emma Payge (Tiffany Haddish), surge um vínculo surpreendente que ajuda Charlie a enfrentar a nova etapa de sua vida.(n)</desc>
+  </programme>
+  <programme start="20221230164501 +0000" stop="20221230191454 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Aquaman</title>
+    <desc lang="pt">Do diretor James Wan (Invocação do Mal) vem Aquaman, uma incrível aventura submarina do universo cinematográfico DC, estrelado por Jason Momoa no papel do clássico herói dos sete mares. Filho de um humano e da rainha Atlanna (Nicole Kidman), Arthur Curry deve confrontar seu tirano meio-irmão Orm e reivindicar seu lugar como rei da Atlântida para evitar a iminente guerra entre a terra e o oceano.(n)</desc>
+  </programme>
+  <programme start="20221230191454 +0000" stop="20221230210456 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">DC Liga dos Superpets</title>
+    <title lang="xx">Dc League Of Super Pets</title>
+    <desc lang="pt">Salvar o mundo está em suas patas! Krypto, o supercão e melhor amigo de Superman, deve recrutar e treinar um grupo de atrapalhados animais de abrigo com poderes para ajudá-lo a resgatar os super-heróis seqüestrados da Liga da Justiça.(n)</desc>
+  </programme>
+  <programme start="20221230210456 +0000" stop="20221230213950 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Funk.Doc</title>
+    <title lang="xx">Funk.Doc:</title>
+    <desc lang="pt">Após ser banido dos clubes, os bailes funk se refugiam nas comunidades cariocas. A marginalização gera novas canções. Atuando como bode expiatório para as contradições brasileiras, o funk é perseguido nas ruas, nos tribunais e nos jornais.(n)</desc>
+  </programme>
+  <programme start="20221230213950 +0000" stop="20221230221504 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Funk.Doc</title>
+    <title lang="xx">Funk.Doc:</title>
+    <desc lang="pt">No que parece um ambiente expressivamente masculino, as mulheres provam que o feminino tem muita força, o funk oferece um espaço que não só entretém cada vez mais pessoas, mas entrega às mulheres uma chance de luta contra o machismo.(n)</desc>
+  </programme>
+  <programme start="20221230221504 +0000" stop="20221231010001 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Elvis</title>
+    <desc lang="pt">Baz Luhrmann (O Grande Gatsby) dirige Austin Butler e o vencedor do Oscar® Tom Hanks em um épico filme musical que segue a história da lenda do rock &amp; roll Elvis Presley do ponto de vista de seu controverso agente, o "Coronel" Tom Parker.(n)</desc>
+  </programme>
+  <programme start="20221231010001 +0000" stop="20221231024447 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Encurralados em Veneza</title>
+    <title lang="xx">Veneciafrenia</title>
+    <desc lang="pt">Álex de la Iglesia dirige este thriller de terror em que um grupo de espanhóis vai a Veneza para se divertir, mas acaba encontrando uma população local não muito amistosa para com os turistas, que terão que lutar por suas vidas e fugir.(n)</desc>
+  </programme>
+  <programme start="20221231024447 +0000" stop="20221231041438 +0000" channel="HBO Oeste Brazil">
+    <title lang="pt">Isolados: Medo Invisível</title>
+    <title lang="xx">Songbird</title>
+    <desc lang="pt">Um jovem casal luta para sobreviver em um mundo devastado por uma variante da COVID que quase arrasou a raça humana. Mas sob o cruel regime sanitário imposto pelas autoridades, o vírus não é a única ameaça que eles devem enfrentar.(n)</desc>
+  </programme>
+  <programme start="20221230010022 +0000" stop="20221230030010 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Megatubarão</title>
+    <title lang="xx">The Meg</title>
+    <desc lang="pt">Jason Statham estrela neste thriller submarino onde um grupo de cientistas liberta acidentalmente um tubarão gigante pré-histórico. Agora a equipe deve arriscar suas vidas em uma corrida contra o tempo para evitar um massacre.(n)</desc>
+  </programme>
+  <programme start="20221230030010 +0000" stop="20221230042940 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">O Massacre da Serra Elétrica - O Retorno</title>
+    <title lang="xx">Texas Chainsaw Massacre: The Next Generation</title>
+    <desc lang="pt">Matthew McConaughey e Renée Zellweger protagonizam este capítulo da franquia O Massacre da Serra Elétrica onde um grupo de jovens que sofre um acidente de carro procura ajuda na casa de Leatherface e sua família de psicopatas canibais.(n)</desc>
+  </programme>
+  <programme start="20221230042940 +0000" stop="20221230061853 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Lords Of Salem, The</title>
+    <desc lang="pt">Em Salem, Massachusetts, uma DJ (Sheri Moon Zombie; À Prova de Morte) recebe um disco de vinil e, ao ouvi-lo, tem visões assustadoras. Logo, ficará sabendo que é descendente de um padre que, séculos atrás, impulsionou a caça às bruxas. E que em seu ventre cresce o filho de um demônio.(n)</desc>
+  </programme>
+  <programme start="20221230061853 +0000" stop="20221230071051 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Patrulha do Destino</title>
+    <title lang="xx">Nostalgia Patrol</title>
+  </programme>
+  <programme start="20221230071051 +0000" stop="20221230090000 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">O Incrível Mágico Burt Wonderstone</title>
+    <title lang="xx">Incredible Burt Wonderstone, The</title>
+    <desc lang="pt">Burt Wonderstone e Anton Marvelton são dois famosos mágicos que dominaram a cidade de Las Vegas durante anos. Quando os truques do ilusionista de rua Steve Gray começam a obscurecer seu sucesso, eles precisam criar uma nova e perigosa mágica para retornarem ao topo da carreira. Comédia com Steve Carrell, Steve Buscemi e Jim Carrey.(n)</desc>
+  </programme>
+  <programme start="20221230090000 +0000" stop="20221230112031 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Batman Begins</title>
+    <desc lang="pt">Após o assassinato dos pais, o milionário Bruce Wayne corre o mundo buscando um modo de combater a injustiça. De volta a Gotham City, ele encontra a cidade ameaçada e se transforma no Cavaleiro das Trevas para enfrentar o mal. Estrelado por Christian Bale, Morgan Freeman, Gary Oldman, Michael Cane e Liam Neeson, o filme conta a origem do Homem-Morcego.(n)</desc>
+  </programme>
+  <programme start="20221230112031 +0000" stop="20221230135538 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Batman - O Cavaleiro das Trevas</title>
+    <title lang="xx">Dark Knight, The</title>
+    <desc lang="pt">Christopher Nolan apresenta um dos capítulos mais aclamadas da trilogia O Cavaleiro das Trevas, no qual Batman, juntamente com o comissário Gordon e o promotor Harvey Dent, deve enfrentar um criminoso perigoso conhecido como O Coringa (Heath Ledger), que irá apagar a linha que separa o herói do justiceiro. Ledger ganhou um Oscar póstumo como Melhor Ator Coadjuvante.(n)</desc>
+  </programme>
+  <programme start="20221230135538 +0000" stop="20221230164034 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Batman: O Cavaleiro das Trevas Ressurge</title>
+    <title lang="xx">Dark Knight Rises, The</title>
+    <desc lang="pt">As ruas de Gotham City estão livres de criminosos, e Bruce Wayne é somente um empresário em decadência, que há oito anos não se transforma em super-herói. O terrorista Bane, no entanto, reaparece querendo vingança contra um Batman sem condições de enfrentar a batalha. Seria este o fim do Cavaleiro das Trevas? Mais uma aventura do Homem-Morcego, vivido pelo ator Christian Bale.(n)</desc>
+  </programme>
+  <programme start="20221230164034 +0000" stop="20221230174529 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Bill Maher: Live From DC</title>
+    <desc lang="pt">No seu décimo especial para a HBO, o apresentador e comediante Bill Maher mostra por que ele é considerado uma das personalidades mais polêmicas na América. O show é na capital americana.(n)</desc>
+  </programme>
+  <programme start="20221230174529 +0000" stop="20221230195551 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Hereditário</title>
+    <title lang="xx">Hereditary</title>
+    <desc lang="pt">Quando não se pode escapar da ancestralidade, a herança pode se tornar uma maldição. A indicada ao Oscar® Toni Collette (O Sexto Sentido) é papel de Annie Graham, uma artista que após a morte da mãe passa a lidar com visões perturbadoras e inexplicáveis. Aos poucos, uma história de traumas e tragédia vai se revelando em vislumbres do destino sombrio que marca sua família.(n)</desc>
+  </programme>
+  <programme start="20221230195551 +0000" stop="20221230222019 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Batman Begins</title>
+    <desc lang="pt">Após o assassinato dos pais, o milionário Bruce Wayne corre o mundo buscando um modo de combater a injustiça. De volta a Gotham City, ele encontra a cidade ameaçada e se transforma no Cavaleiro das Trevas para enfrentar o mal. Estrelado por Christian Bale, Morgan Freeman, Gary Oldman, Michael Cane e Liam Neeson, o filme conta a origem do Homem-Morcego.(n)</desc>
+  </programme>
+  <programme start="20221230222019 +0000" stop="20221231010020 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Batman - O Cavaleiro das Trevas</title>
+    <title lang="xx">Dark Knight, The</title>
+    <desc lang="pt">Christopher Nolan apresenta um dos capítulos mais aclamadas da trilogia O Cavaleiro das Trevas, no qual Batman, juntamente com o comissário Gordon e o promotor Harvey Dent, deve enfrentar um criminoso perigoso conhecido como O Coringa (Heath Ledger), que irá apagar a linha que separa o herói do justiceiro. Ledger ganhou um Oscar póstumo como Melhor Ator Coadjuvante.(n)</desc>
+  </programme>
+  <programme start="20221231010020 +0000" stop="20221231034547 +0000" channel="HBO PLUS BRASIL">
+    <title lang="pt">Batman: O Cavaleiro das Trevas Ressurge</title>
+    <title lang="xx">Dark Knight Rises, The</title>
+    <desc lang="pt">As ruas de Gotham City estão livres de criminosos, e Bruce Wayne é somente um empresário em decadência, que há oito anos não se transforma em super-herói. O terrorista Bane, no entanto, reaparece querendo vingança contra um Batman sem condições de enfrentar a batalha. Seria este o fim do Cavaleiro das Trevas? Mais uma aventura do Homem-Morcego, vivido pelo ator Christian Bale.(n)</desc>
+  </programme>
+  <programme start="20221230025513 +0000" stop="20221230043205 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Do Fundo do Mar 2</title>
+    <title lang="xx">Deep Blue Sea 2</title>
+    <desc lang="pt">Um brilhante bilionário está experimentando com tubarões-touro, o que logo se transforma em um pesadelo sangrento para um grupo de cientistas que agora terão que lutar para sobreviver aos ataques desses animais geneticamente modificados.(n)</desc>
+  </programme>
+  <programme start="20221230043205 +0000" stop="20221230061251 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Viagem Sem Volta</title>
+    <title lang="xx">Magic Magic</title>
+    <desc lang="pt">No que seria uma simples viagem por uma região pouco explorada do Chile, Alicia demonstra sinais de perda das faculdades mentais. Os companheiros de aventura não percebem a transformação e a jovem ingressa num caminho sem volta.(n)</desc>
+  </programme>
+  <programme start="20221230061251 +0000" stop="20221230090008 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Django Livre</title>
+    <title lang="xx">Django Unchained</title>
+    <desc lang="pt">Quentin Tarantino apresenta um western com um elenco estelar que inclui os vencedores do Oscar® Jamie Foxx, Christoph Waltz e Leonardo DiCaprio. Django (Foxx), um escravo que se tornou caçador de recompensas, parte com seu mentor, Dr. King Schultz (Christoph Waltz), para salvar sua esposa de Calvin Candie (DiCaprio), o carismático e brutal proprietário da propriedade Candyland.(n)</desc>
+  </programme>
+  <programme start="20221230090008 +0000" stop="20221230112611 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">O Lugar Onde Tudo Termina</title>
+    <title lang="xx">Place Beyond The Pines, The</title>
+    <desc lang="pt">Luke é motociclista que descobre ter um filho recém-nascido com Romina, sua ex-namorada. Para ganhar dinheiro e sustentar a família, ele começa a roubar bancos, mas um ambicioso policial está atrás dele, de olho em uma promoção. Fatos desta época vão, anos mais tarde, criar outros conflitos. Filme com Ryan Gosling, Eva Mendes e Bradley Cooper.(n)</desc>
+  </programme>
+  <programme start="20221230112611 +0000" stop="20221230132154 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Desconhecido</title>
+    <title lang="xx">Unknown</title>
+    <desc lang="pt">Este inquietante thriller segue Liam Neeson como um bioquímico que, depois de acordar de um coma de quatro dias causado por um acidente de carro em Berlim, descobre que outro homem assumiu sua identidade e que sua esposa não o reconhece.(n)</desc>
+  </programme>
+  <programme start="20221230132154 +0000" stop="20221230150208 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Busca sem Limites</title>
+    <title lang="xx">Collide</title>
+    <desc lang="pt">Casey é um jovem americano a serviço de um gangster turco. Tendo se apaixonado por Juliette, uma bartender de saúde frágil, decide deixar para trás sua vida marginal e fazer um último roubo para custear a operação de que depende a vida de sua amada. O golpe no entanto falha, e Casey se verá fugindo da vingança de um poderoso traficante de drogas pelas estradas da Europa.(n)</desc>
+  </programme>
+  <programme start="20221230150208 +0000" stop="20221230164404 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Invasion</title>
+    <desc lang="pt">Não durma! Não confie em ninguém! Nicole Kidman e Daniel Craig lutam contra uma epidemia alienígena em Invasores. Suspense repleto de adrenalina! Quando um transbordador espacial da NASA explode, seus restos contaminados se espalham por diversas cidades dos Estados Unidos. Após a catástrofe, a psiquiatra Carol Bennell (Kidman) começa a detectar comportamentos muito estranhos em algumas pessoas, que agem como se estivessem possuídas. Ela descobre, junto com seu amigo, o Dr. Ben Driscoll (Craig), que um vírus de outro planeta está afetando os seres humanos e que seu filho poderia salvar a humanidade. Invasores é a última versão cinematográfica do livro "The Body Snatchers.(n)</desc>
+  </programme>
+  <programme start="20221230164404 +0000" stop="20221230183552 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">A Rebelião</title>
+    <title lang="xx">Captive State</title>
+    <desc lang="pt">John Goodman protagoniza este thriller ambientado num futuro distópico onde a cidade de Chicago, após uma invasão alienígena global, foi dividida em dois grupos: os que colaboram com os alienígenas e os que se rebelam contra eles. Após dez anos sob o jugo dos invasores, os rebeldes orquestram um plano para recuperar o planeta que lhes foi tirado.(n)</desc>
+  </programme>
+  <programme start="20221230183552 +0000" stop="20221230203130 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Desconhecido</title>
+    <title lang="xx">Unknown</title>
+    <desc lang="pt">Este inquietante thriller segue Liam Neeson como um bioquímico que, depois de acordar de um coma de quatro dias causado por um acidente de carro em Berlim, descobre que outro homem assumiu sua identidade e que sua esposa não o reconhece.(n)</desc>
+  </programme>
+  <programme start="20221230203130 +0000" stop="20221230222824 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Noite Sem Fim</title>
+    <title lang="xx">Run All Night</title>
+    <desc lang="pt">Liam Neeson é Jimmy Conlon, um assassino que tem apenas uma noite para decidir onde está sua lealdade: com seu filho distante Mike, cuja vida está em perigo, ou com seu amigo próximo, o chefe da máfia Shawn (Ed Harris).(n)</desc>
+  </programme>
+  <programme start="20221230222824 +0000" stop="20221231000932 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Busca sem Limites</title>
+    <title lang="xx">Collide</title>
+    <desc lang="pt">Casey é um jovem americano a serviço de um gangster turco. Tendo se apaixonado por Juliette, uma bartender de saúde frágil, decide deixar para trás sua vida marginal e fazer um último roubo para custear a operação de que depende a vida de sua amada. O golpe no entanto falha, e Casey se verá fugindo da vingança de um poderoso traficante de drogas pelas estradas da Europa.(n)</desc>
+  </programme>
+  <programme start="20221231000932 +0000" stop="20221231005959 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Hard Knocks: Temporada de Futebol Americano - Os Arizona Cardinals - Parte 6</title>
+    <title lang="xx">Hard Knocks In Season: The Arizona Cardinals</title>
+    <desc lang="pt">A série vencedora do Emmy® da HBO entrega acesso total ao documentar uma franquia da NFL em tempo real durante a temporada, seguindo os Cardinals enquanto eles enfrentam os desafios pelo caminho e lutam para retornar à pós-temporada.(n)</desc>
+  </programme>
+  <programme start="20221231005959 +0000" stop="20221231025147 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">A Rebelião</title>
+    <title lang="xx">Captive State</title>
+    <desc lang="pt">John Goodman protagoniza este thriller ambientado num futuro distópico onde a cidade de Chicago, após uma invasão alienígena global, foi dividida em dois grupos: os que colaboram com os alienígenas e os que se rebelam contra eles. Após dez anos sob o jugo dos invasores, os rebeldes orquestram um plano para recuperar o planeta que lhes foi tirado.(n)</desc>
+  </programme>
+  <programme start="20221231025147 +0000" stop="20221231043017 +0000" channel="HBO Xtreme Brazil">
+    <title lang="pt">Lockout</title>
+    <desc lang="pt">No ano de 2079, Snow foi acusado injustamente de conspiração contra o governo americano. Ele é capturado por forças policiais e condenado a passar o resto da vida congelado em nitrogênio liquido na prisão espacial de M. S. One, que fica na orbita da Terra. Para não ter esse fim triste, ele recebe uma oportunidade para voltar a ser livre: resgatar Emilie Warnock, filha do presidente dos Estados Unidos, das garras de perigosos criminosos que a capturaram durante uma fuga do presídio espacial após uma rebelião. O resgate precisa ser feito em um curto espaço de tempo, pois autoridades pretendem explodir o local para eliminar todos os presos em fuga antes que eles retornem ao planeta.(n)</desc>
+  </programme>
+  <programme start="20221230022940 +0000" stop="20221230042748 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">12 Órfãos Poderosos</title>
+    <title lang="xx">12 Mighty Orphans</title>
+    <desc lang="pt">A inspiradora história verdadeira dos Mighty Mites, o time de futebol americano de um orfanato que, durante a Grande Depressão, passou de jogar sem sapatos ou até mesmo sem uma bola, a competir pelo campeonato estadual do Texas. No decorrer de sua melhor temporada, este grupo improvável e seu espírito resiliente tornaram-se a motivação da cidade, do estado e de toda uma nação.(n)</desc>
+  </programme>
+  <programme start="20221230042748 +0000" stop="20221230061005 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Will - Em Busca do Sonho</title>
+    <title lang="xx">Will</title>
+    <desc lang="pt">Will Brennan, de 11 anos, é um grande fã do Liverpool F.C. Um dia, seu pai Gareth o surpreende com ingressos para assistir à final da Champions League contra o poderoso Milan em Istambul. Mas depois que Gareth morre repentinamente, Will fica determinado a ir a Istambul para honrar a memória do pai e ver sua equipe jogar o maior jogo de sua história.(n)</desc>
+  </programme>
+  <programme start="20221230061005 +0000" stop="20221230074215 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Hotel Transilvânia</title>
+    <title lang="xx">Hotel Transylvania</title>
+    <desc lang="pt">O Hotel Transilvânia é um resort de luxo para que os monstros possam descansar do árduo trabalho de assustar os humanos. O local é dirigido por Drácula, que resolve convidar seus amigos para comemorar o aniversário de sua filha Mavis. O que o superprotetor Drácula não esperava é que um humano sem noção aparecesse no hotel repleto de convidados e se apaixonasse por Mavis.(n)</desc>
+  </programme>
+  <programme start="20221230074215 +0000" stop="20221230090010 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Tom and Jerry Cowboy Up!</title>
+    <title lang="xx">Tom &amp; Jerry On The Prairie</title>
+    <desc lang="pt">O Velho Oeste ficou maluco com Tom e Jerry no rancho! Desta vez, os eternos rivais se unem para ajudar uma vaqueira e seu irmão a salvar a propriedade de um vilão ganancioso, e eles vão precisar de ajuda!(n)</desc>
+  </programme>
+  <programme start="20221230090010 +0000" stop="20221230103016 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Ant Bully, The</title>
+    <desc lang="pt">Novo na cidade, sem amigos e atormentado por um valentão da vizinhança, o jovem Lucas Nickle tem descarregado sua frustração no inocente formigueiro de seu jardim. Mas um dia as formigas retaliam. Usando uma poção mágica, elas encolhem Lucas até o tamanho de uma formiga e o condenam a viver como uma delas em sua colônia.(n)</desc>
+  </programme>
+  <programme start="20221230103016 +0000" stop="20221230123127 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Juntos E Misturados</title>
+    <title lang="xx">Blended</title>
+    <desc lang="pt">Lauren e Jim têm um primeiro encontro desastroso e concordam que jamais se encontrarão novamente. No entanto, o destino prega uma peça e eles vão juntos, por acaso, com os respectivos filhos, para um resort de luxo na África. Comédia romântica estrelada por Adam Sandler e Drew Barrymore.(n)</desc>
+  </programme>
+  <programme start="20221230123127 +0000" stop="20221230140311 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <title lang="xx">Nut Job 2, The: Nutty By Nature</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park. Porém, com os planos do prefeito de construir um parque de diversões por cima do lugar, os animais terão que se organizar para proteger sua casa e derrotar os ambiciosos planos que ameaçam seu modo de vida.(n)</desc>
+  </programme>
+  <programme start="20221230140311 +0000" stop="20221230155754 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Jack, o Caçador de Gigantes</title>
+    <title lang="xx">Jack The Giant Slayer</title>
+    <desc lang="pt">Jack é um humilde fazendeiro que, após desobedecer uma recomendação quanto ao plantio de grãos de feijão, abre um portal entre o nosso mundo e uma dimensão habitada por uma terrível raça de gigantes. Isso desencadeia uma guerra, obrigando o jovem a entrar na batalha para salvar uma princesa e a própria raça humana.(n)</desc>
+  </programme>
+  <programme start="20221230155754 +0000" stop="20221230181042 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Bicentennial Man</title>
+    <desc lang="pt">Richard Martin compra um presente: o novo robô NDR-114. Seu filho mais novo coloca o nome de Andrew no robô, que é adquirido como eletrodoméstico programado para realizar tarefas menores. À medida que Andrew começa a experimentar emoções e pensamento criativo, a família Martin descobre que ele não é um robô comum.(n)</desc>
+  </programme>
+  <programme start="20221230181042 +0000" stop="20221230194341 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Uma Casa de Pernas pro Ar</title>
+    <title lang="xx">Are We Done Yet?</title>
+    <desc lang="pt">Agora casado com Suzanne, Nick Persons comprou uma casa no subúrbio para escapar da loucura da cidade e dar uma vida melhor para sua família. Mas logo um excêntrico contratista transforma o sonho de Nick num pesadelo.(n)</desc>
+  </programme>
+  <programme start="20221230194341 +0000" stop="20221230211746 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Scooby Doo 2: Monsters Unleashed</title>
+    <desc lang="pt">Reunidos, os heróis da Mistérios S.A. Fred (Freddie Prinze Jr.), Daphne (Sarah Michelle Gellar), Salsicha, Velma e Scooby-Doo voltam a sua terra natal, Coolsville,  para mais uma missão. Uma repórter local chamada Heather (Alicia Silverstone) anda levando ao ar uma série de reportagens questionando a eficiência do grupo. Para piorar, um homem mascarado planeja usar uma máquina criadora de monstros para controlar a cidade.(n)</desc>
+  </programme>
+  <programme start="20221230211746 +0000" stop="20221230225838 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">PéPequeno</title>
+    <title lang="xx">Smallfoot</title>
+    <desc lang="pt">Todo mundo conhece a lenda do Pé Grande! Mas e se do outro lado do mito fosse tudo parecido, mas ao contrário, e o Pé Grande tivesse medo de um humano? E como seria se, em vez de sentirem medo, eles pudessem ser amigos? Essa é a corajosa jornada de Migo, um simpático Yeti que faz uma incrível descoberta: o Pé Pequeno existe!(n)</desc>
+  </programme>
+  <programme start="20221230225838 +0000" stop="20221231002908 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Ant Bully, The</title>
+    <desc lang="pt">Novo na cidade, sem amigos e atormentado por um valentão da vizinhança, o jovem Lucas Nickle tem descarregado sua frustração no inocente formigueiro de seu jardim. Mas um dia as formigas retaliam. Usando uma poção mágica, elas encolhem Lucas até o tamanho de uma formiga e o condenam a viver como uma delas em sua colônia.(n)</desc>
+  </programme>
+  <programme start="20221231002908 +0000" stop="20221231020400 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Pedro Coelho 2: O Fugitivo</title>
+    <title lang="xx">Peter Rabbit 2: The Runaway</title>
+    <desc lang="pt">Cansado da monótona vida no jardim com Thomas (Domhnall Gleeson), Bea (Rose Byrne) e sua família de coelhos, o travesso Peter Rabbit foge para a grande cidade, onde encontra personagens sombrios e acaba criando o caos para toda a família.(n)</desc>
+  </programme>
+  <programme start="20221231020400 +0000" stop="20221231035032 +0000" channel="HBO Family Este Brz">
+    <title lang="pt">Mars Attacks!</title>
+    <desc lang="pt">Estranhos seres verdes e cabeçudos pousam em diversas capitais do mundo, vindos de Marte. Na Casa Branca, o presidente dos Estados Unidos cogita duas hipóteses: a científica, que sustenta que são seres mais avançados, e portanto, mais pacíficos; e a militar, que solicita, na dúvida, sua aniquilação. Finalmente, resolve dar umas calorosas boas-vindas a estes misteriosos seres que, assim que pisam na Terra, não hesitam em levar adiante seu plano.(n)</desc>
+  </programme>
+  <programme start="20221230010013 +0000" stop="20221230030013 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">O Pântano</title>
+    <title lang="xx">Swamp, The</title>
+    <desc lang="pt">Este documentário original da HBO dá um olhar revelador aos bastidores da política de Washington através do dia a dia de três congressistas republicanos em sua tentativa de defender o chamado do presidente Trump para "drenar o pântano.(n)</desc>
+  </programme>
+  <programme start="20221230030013 +0000" stop="20221230035952 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Branson: Aventuras de um Bilionário - Parte 3</title>
+    <title lang="xx">Branson: Season 1 Part 3</title>
+    <desc lang="pt">Enquanto a Virgin Atlantic vence um processo contra uma rival, Branson mira  ambições ainda maiores e anuncia planos para desenvolver uma empresa de voos espaciais, a Virgin Galactic, dando início ao que se tornaria uma busca de uma década.(n)</desc>
+  </programme>
+  <programme start="20221230035952 +0000" stop="20221230052756 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">A Lenda do Submundo</title>
+    <title lang="xx">Sagba</title>
+    <desc lang="pt">Documentário da HBO que mostra a luta contra a desenfreada discriminação na Nigéria pelo ohar de vários jovens ousados, carismáticos e não-conformistas em Lagos e Nova York. O filme oferece um retrato de uma nova geração que usa as redes sociais e qualquer outro recurso à sua disposição para dar voz a uma cena clandestina que se recusa a ser reprimida.(n)</desc>
+  </programme>
+  <programme start="20221230052756 +0000" stop="20221230071359 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Conquistando Mary</title>
+    <title lang="xx">Capturing Mary</title>
+    <desc lang="pt">Uma mulher relembra os momentos marcantes de sua vida, em especial os vividos junto à aristocracia inglesa em meados do século passado. Uma das lembranças perturbadoras é a de um homem sedutor e ao mesmo tempo desumano, que acaba influenciando o futuro daquela jovem. Um reencontro sinistro na mesma casa deixa a protagonista ainda mais confusa.(n)</desc>
+  </programme>
+  <programme start="20221230071359 +0000" stop="20221230090010 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Agnelli</title>
+    <desc lang="pt">Retrato biográfico de Gianni Agnelli, o lendário industrial italiano, playboy e formador de opinião, contado por familiares, amigos, amantes, confidentes profissionais, rivais - e até mesmo seu mordomo e cozinheiro.(n)</desc>
+  </programme>
+  <programme start="20221230090010 +0000" stop="20221230103347 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">A Vida Imortal de Henrietta Lacks</title>
+    <title lang="xx">Immortal Life Of Henrietta Lacks, The</title>
+    <desc lang="pt">Filme original HBO estrelado por Oprah Winfrey e Rose Byrne, sobre a doadora involuntária de células cancerígenas que geraram a a primeira linhagem celular imortal da história.(n)</desc>
+  </programme>
+  <programme start="20221230103347 +0000" stop="20221230120423 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Lindsey Vonn: A Temporada Final</title>
+    <title lang="xx">Lindsey Vonn: The Final Season</title>
+    <desc lang="pt">A HBO dá uma olhada na transcendental carreira da tetracampeã olímpica Lindsey Vonn e no capítulo final da sua jornada no esqui. O documentário captura o compromisso inquebrantável de Lindsey com o sucesso enquanto enfrenta seus limites humanos durante um dos momentos mais críticos de sua vida e carreira: quebrar o recorde de maior número de vitórias na Copa do Mundo.(n)</desc>
+  </programme>
+  <programme start="20221230120423 +0000" stop="20221230134753 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">O Apollo: 85 Anos</title>
+    <title lang="xx">Apollo, The</title>
+    <desc lang="pt">Dirigido pelo ganhador do Oscar® e do Emmy®, Roger Ross Williams, The Apollo conta a história única do marco da cidade de Nova York que se tornou um sagrado salão de excelência e empoderamento afro-americano. O documentário explora o papel que este teatro tem desempenhado na cultura nos últimos 85 anos e também mostra clipes de arquivo de música, os bastidores e entrevistas.(n)</desc>
+  </programme>
+  <programme start="20221230134753 +0000" stop="20221230152716 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Simple As Water</title>
+    <desc lang="pt">Um retrato filmado pela vencedora do Oscar® Megan Mylan, ao longo de cinco anos e cinco países, que revela o impacto da guerra, a separação e o deslocamento de famílias de refugiados sírios em busca de uma nova vida.(n)</desc>
+  </programme>
+  <programme start="20221230152716 +0000" stop="20221230163100 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 1</title>
+    <desc lang="pt">É o segundo ano após a legalização e o sonho de Biriba se tornou um pesadelo. Reduzido a um mero empregado de CD, ele deve enfrentar inúmeros desafios no mundo dos negócios, e um passado que não se deixa esquecer.(n)</desc>
+  </programme>
+  <programme start="20221230163100 +0000" stop="20221230173123 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 2</title>
+    <desc lang="pt">Após reencontrar-se com Salim, Biriba se aproxima de Vini para dar início a um plano arriscado.(n)</desc>
+  </programme>
+  <programme start="20221230173123 +0000" stop="20221230183007 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 3</title>
+    <desc lang="pt">Kelly revive uma antiga amizade. CD usa Vini para se aproximar de Fernão.(n)</desc>
+  </programme>
+  <programme start="20221230183007 +0000" stop="20221230192948 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 4</title>
+    <desc lang="pt">Biriba é encurralado por uma policial. Salim busca armamentos para a Dissidência.(n)</desc>
+  </programme>
+  <programme start="20221230192948 +0000" stop="20221230201815 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 5</title>
+    <desc lang="pt">Biriba, Salim, Vini e Joselo viajam para o interior para recuperar uma planta roubada.(n)</desc>
+  </programme>
+  <programme start="20221230201815 +0000" stop="20221230212022 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 6</title>
+    <desc lang="pt">A equipe da Pico da Neblina vive um choque entre a realidade e o absurdo em busca da primeira Taça Cannabis do Brasil.(n)</desc>
+  </programme>
+  <programme start="20221230212022 +0000" stop="20221230221415 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 7</title>
+    <desc lang="pt">Salim força Biriba a tomar uma difícil decisão. Carmen vê CD se afastar.(n)</desc>
+  </programme>
+  <programme start="20221230221415 +0000" stop="20221230231223 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 8</title>
+    <desc lang="pt">Biriba e Vini tentam uma manobra ousada para impedir a venda da loja. Carmen intercepta Rick.(n)</desc>
+  </programme>
+  <programme start="20221230231223 +0000" stop="20221230235957 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2 - 9</title>
+    <desc lang="pt">A Dissidência coloca o plano em ação. Biriba tenta proteger sua família.(n)</desc>
+  </programme>
+  <programme start="20221230235957 +0000" stop="20221231005958 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Pico da Neblina</title>
+    <title lang="xx">Pico Da Neblina - Season 2</title>
+    <desc lang="pt">Biriba, Salim e CD são julgados pelo tribunal do Movimento. Às vésperas da Pico da Neblina ser leiloada, Vini confronta Fernão.(n)</desc>
+  </programme>
+  <programme start="20221231005958 +0000" stop="20221231020005 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">Meu Pai Escreveu Um Pornô</title>
+    <title lang="xx">My Dad Wrote A Porno</title>
+    <desc lang="pt">Este especial apresenta Jamie Morton lendo uma série de novelas eróticas, escritos por seu próprio pai, junto com seus amigos James Cooper e Alice Levine, tecendo comentários escandalosos e divertidos para uma platéia ao vivo.(n)</desc>
+  </programme>
+  <programme start="20221231023738 +0000" stop="20221231043236 +0000" channel="HBOSIGNATURE BR">
+    <title lang="pt">O Palácio de Joe</title>
+    <title lang="xx">Joe's Palace</title>
+    <desc lang="pt">Drama centrado na relação de Elliot com um rico londrino e, ao mesmo tempo, com Joe, o garoto que cuida da mansão.(n)</desc>
+  </programme>
+  <programme start="20221230010242 +0000" stop="20221230032006 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">France, Sob os Holofotes</title>
+    <title lang="xx">France</title>
+    <desc lang="pt">Léa Seydoux estrela esta sátira tragicômica que examina o poder corrosivo do noticiário na sociedade contemporânea no papel de France, uma jornalista celebridade cuja vida sai dos eixos após descuidademente atropelar um entregador.(n)</desc>
+  </programme>
+  <programme start="20221230032006 +0000" stop="20221230045416 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">A Assistente</title>
+    <title lang="xx">Assistant, The</title>
+    <desc lang="pt">Matthew Macfadyen e Julia Garner estrelam neste drama que lança um olhar incisivo sobre a rotina diária da assistente de um magnata.(n)</desc>
+  </programme>
+  <programme start="20221230045416 +0000" stop="20221230070003 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">O Xangô de Baker Street</title>
+    <title lang="xx">Xango From Baker Street, The</title>
+    <desc lang="pt">Adaptação do livro homônimo de Jô Soares, "O Xangô de Baker Street" traz o famoso inspetor Sherlock Holmes e seu companheiro Watson ao Brasil. Eles são convocados pelo imperador Dom Pedro II para recuperar um valioso violino e acabam infiltrados no primeiro caso de um serial killer na história. Percebendo que os costumes do velho mundo não funcionam muito bem em terras tropicais, os dois britânicos deixam-se levar pelo calor e pelos costumes locais e envolvem-se em uma série de situações divertidas e nada elementares.(n)</desc>
+  </programme>
+  <programme start="20221230070003 +0000" stop="20221230090010 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Sweeney Todd: The Demon Barber Of Fleet Street</title>
+    <desc lang="pt">Na Londres vitoriana, Benjamin Barker é casado com a bela Lucy, com quem tem uma filha muito fofa, Johanna. A beleza de Lucy atrai os olhares do corrupto juiz Turpin, que acusa falsamente o barbeiro de um crime e abusa da sua esposa, e mais tarde, conseguirá ainda ficar com a custódia da filha do casal. Quando Benjamin volta a Londres sob a nova identidade de Sweeney Todd, conhece a Sra. Lovett, dona de uma doceria, que o ajuda a abrir uma barbearia em cima da sua loja. A partir daí, seremos testemunhas de um surto violento de assassinatos contra aqueles que fizeram o barbeiro sofrer e perder sua adorada família.(n)</desc>
+  </programme>
+  <programme start="20221230090010 +0000" stop="20221230104033 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Um Garoto de Programa</title>
+    <title lang="xx">Loverboy</title>
+    <desc lang="pt">Depois que seu pai para de pagar sua faculdade, Randy Bodek decide virar entregador de pizza para poder pagar suas contas, arrumar a vida, e voltar com sua ex, Jenny. Mas o que ele não sabe é que as mulheres de Beverly Hills, por mais que pizza seja bom, têm outros interesses...(n)</desc>
+  </programme>
+  <programme start="20221230104033 +0000" stop="20221230122006 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Quando Você Viu seu Pai pela Última Vez?</title>
+    <title lang="xx">When Did You Last See Your Father?</title>
+    <desc lang="pt">Os vencedores do Oscar® Jim Broadbent e Colin Firth estrelam neste drama como um pai e um filho afastados. No entanto, um câncer terminal fará com que ambos confrontem suas memórias do passado para se reconciliarem com o presente.(n)</desc>
+  </programme>
+  <programme start="20221230122006 +0000" stop="20221230142527 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">O Discurso do Rei</title>
+    <title lang="xx">King's Speech, The</title>
+    <desc lang="pt">Rei George VI sofreu toda a sua vida de gagueira, o que sempre foi um obstáculo ao fazer discursos. Até que ele decide se encontrar com um terapeuta que irá ajudá-lo a transmitir sua mensagem de inspiração e união. Filme vencedor do Oscar® de Melhor Filme.(n)</desc>
+  </programme>
+  <programme start="20221230142527 +0000" stop="20221230163454 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Amundsen - O Explorador</title>
+    <title lang="xx">Amundsen</title>
+    <desc lang="pt">Drama biográfico que acompanha os feitos do lendário herói da exploração antártica, o norueguês Roald Amundsen. Munido de coragem, determinação e envolto em controvérsia, Amundsen foi o primeiro homem a chegar ao Polo Sul e ao Polo Norte - uma vida fatalmente associada ao gosto por aventura.(n)</desc>
+  </programme>
+  <programme start="20221230163454 +0000" stop="20221230183511 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Pavarotti</title>
+    <desc lang="pt">O vencedor do Oscar® Ron Howard dirige este documentário sobre a vida, trajetória e legado do "tenor do povo.(n)</desc>
+  </programme>
+  <programme start="20221230183511 +0000" stop="20221230202318 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">A Verdade</title>
+    <title lang="xx">The Truth</title>
+    <desc lang="pt">Kore-Eda Hirokazu apresenta um cativante drama sobre a relação entre mãe e filha. Após ler o livro que sua mãe, a famosa atriz Fabienne Dangeville (Catherine Deneuve) está lançando, a roteirista Lumir (Juliette Binoche) a confronta sobre a maneira como a relação entre as duas é descrita na obra. E para complicar as coisas, Fabienne estará no próximo filme de Lumir.(n)</desc>
+  </programme>
+  <programme start="20221230210146 +0000" stop="20221230230119 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Mãos De Pedra</title>
+    <title lang="xx">Hands Of Stone</title>
+    <desc lang="pt">Roberto Duran é o lendário boxeador panamenho, que fez seu debute profissional aos 16 anos em 1968 e se aposentou em 2002 aos 50 anos de idade. Em 1980 derrotou o também lendário Sugar Ray Leonard para obter o título dos peso meio-médio do CMB.  Sob a direção de Jonathan Jakubowicz e protagonizado por Edgar Ramírez e o duas vezes ganhador do Oscar® Robert De Niro.(n)</desc>
+  </programme>
+  <programme start="20221230230119 +0000" stop="20221231010024 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Belle Époque</title>
+    <title lang="xx">La Belle Epoque</title>
+    <desc lang="pt">A vida de Victor, um sexagenário bastante desiludido, muda radicalmente quando ele conhece Antoine, um brilhante homem de negócios cuja empresa desenvolveu uma atração que permite a seus clientes reviver a época de sua escolha. Victor decide então voltar à semana mais inesquecível de sua vida, 40 anos atrás, quando conheceu a mulher que se tornaria o amor de sua vida.(n)</desc>
+  </programme>
+  <programme start="20221231010024 +0000" stop="20221231023936 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Uma Livraria Em Paris</title>
+    <title lang="xx">A Bookshop In Paris</title>
+    <desc lang="pt">Vincenzo (Sergio Castellitto), um bibliotecário maduro, redescobre emoções que ele pensava ter esquecido há muito tempo depois que a temperamental e exuberante Yolande (Bérénice Bejo) irrompe tanto em sua loja quanto em sua vida.(n)</desc>
+  </programme>
+  <programme start="20221231023936 +0000" stop="20221231042959 +0000" channel="HBO Mundi Brazil">
+    <title lang="pt">Mais Forte Que Bombas</title>
+    <title lang="xx">Louder Than Bombs</title>
+  </programme>
+  <programme start="20221230025546 +0000" stop="20221230035909 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Lil Rel Howery: Eu Disse, Vocês Pensaram</title>
+    <title lang="xx">Lil Rel Howery: I Said It. Y¿All Thinking It</title>
+    <desc lang="pt">O ator e comediante Lil Rel Howery retorna a Chicago para seu segundo especial da HBO, onde compartilha suas opiniões sobre fama, paternidade, terapia e outros tópicos do cotidiano importantes para ele... e seu público.(n)</desc>
+  </programme>
+  <programme start="20221230035909 +0000" stop="20221230054720 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Passe Livre</title>
+    <title lang="xx">Hall Pass</title>
+    <desc lang="pt">Rick e Fred são dois melhores amigos entediados com suas vidas de casados. Cansadas de seu comportamento, suas esposas decidem dar-lhes uma semana de liberdade total; sem perguntas nem consequências. Mas logo Rick e Fred se darão conta do quão desconectados tem estado da vida de solteiro nos últimos anos.(n)</desc>
+  </programme>
+  <programme start="20221230054720 +0000" stop="20221230072129 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Juntos Mas Separados</title>
+    <title lang="xx">Together Together</title>
+    <desc lang="pt">Ed Helms e Patti Harrison estrelam nesta comédia como Matt, um quarentão que sempre sonhou em ser pai, e Anna, uma jovem mulher solitária que Matt contrata como barriga de aluguel. O que nenhum deles esperava é que seu relacionamento testasse todas as suas convicções dos limites e peculiaridades do amor e da paternidade.(n)</desc>
+  </programme>
+  <programme start="20221230072129 +0000" stop="20221230090005 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Austin Powers em O Homem do Membro de Ouro</title>
+    <title lang="xx">Austin Powers In Goldmember</title>
+    <desc lang="pt">Com a ajuda do misterioso Goldmember, o terrível Dr. Evil viaja até o ano de 1975 para sequestrar Nigel Powers, o pai de Austin. Agora, Austin Powers deve ir ao passado e libertar seu pai com a ajuda da sensual Foxxy Cleopatra.(n)</desc>
+  </programme>
+  <programme start="20221230090005 +0000" stop="20221230103939 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Austin Powers em O Homem do Membro de Ouro</title>
+    <title lang="xx">Austin Powers In Goldmember</title>
+    <desc lang="pt">Com a ajuda do misterioso Goldmember, o terrível Dr. Evil viaja até o ano de 1975 para sequestrar Nigel Powers, o pai de Austin. Agora, Austin Powers deve ir ao passado e libertar seu pai com a ajuda da sensual Foxxy Cleopatra.(n)</desc>
+  </programme>
+  <programme start="20221230103939 +0000" stop="20221230125030 +0000" channel="HBO POP Brazil">
+    <title lang="pt">No Ritmo da Dança</title>
+    <title lang="xx">Dance With Me</title>
+    <desc lang="pt">Quando Rafael (Chayanne) e Ruby (Vanessa L. Williams) se conhecem no estúdio de dança onde Ruby é instrutora, ela despreza o estilo indisciplinado do bailarino. Mas Rafael logo mostra que tem algo a ensinar: dançar com emoção e o coração.(n)</desc>
+  </programme>
+  <programme start="20221230125030 +0000" stop="20221230143100 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Dizem por Aí</title>
+    <title lang="xx">Rumor Has It</title>
+    <desc lang="pt">Sarah Huttinger não está satisfeita com a carreira de jornalista e tem dúvidas sobre o seu futuro casamento com o namorado. Como se não bastasse, ela vai precisar passar bastante tempo com a família. Mas tudo pode mudar quando certos rumores sobre os parentes vêm à tona. Filme estrelado por Jennifer Aniston, Kevin Costner e Shirley MacLaine.(n)</desc>
+  </programme>
+  <programme start="20221230143100 +0000" stop="20221230164824 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Ele Não Está Tão A Fim de Você</title>
+    <title lang="xx">He's Just Not That Into You</title>
+    <desc lang="pt">Um grupo de homens e mulheres de Baltimore navega pela emoção dos primeiros encontros e pelos problemas da vida de casado enquanto tentam interpretar os sinais enviados pelo sexo oposto, com a esperança de ser a exceção à regra.(n)</desc>
+  </programme>
+  <programme start="20221230164824 +0000" stop="20221230175557 +0000" channel="HBO POP Brazil">
+    <title lang="pt">We're Here</title>
+    <title lang="xx">Grand Junction, Colorado</title>
+    <desc lang="pt">Bob, Eureka e Shangela empoderam três membros trans da comunidade queer de Grand Junction, Colorado, a finalmente compartilhar e liberar seus melhores e mais autênticos eus.(n)</desc>
+  </programme>
+  <programme start="20221230175557 +0000" stop="20221230195318 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Especialista em Crise</title>
+    <title lang="xx">Our Brand Is Crisis</title>
+    <desc lang="pt">Os vencedores do Oscar® Sandra Bullock e Billy Bob Thornton estrelam esta comédia como inimigos mortais nos papéis de dois estrategistas políticos que coordenam as campanhas de candidatos à eleição presidencial da Bolívia.(n)</desc>
+  </programme>
+  <programme start="20221230195318 +0000" stop="20221230213453 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Quase Irmãos</title>
+    <title lang="xx">Step Brothers</title>
+    <desc lang="pt">Brendan Huff tem 39 anos, não possui emprego e vive com sua mãe, Nancy. Dale Doback tem 40 anos, também está desempregado e vive com seu pai, Robert. Numa palestra Robert e Nancy se conhecem e, logo em seguida, decidem se casar. Isto faz com que todos passem a viver na mesma casa. Brendan e Dale se estranham assim que se conhecem, mas aos poucos a animosidade entre eles diminui.(n)</desc>
+  </programme>
+  <programme start="20221230213453 +0000" stop="20221230232602 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Sete Dias Sem Fim</title>
+    <title lang="xx">This Is Where I Leave You</title>
+    <desc lang="pt">Quatro irmãos, seguindo a tradição judaica após a morte de seu pai, precisam se reunir com a família e amigos durante sete dias e sete noites. No entanto, antigas paixões e rancores guardados há anos serão revelados. Filme estrelado por Tina Fey e Jason Bateman.(n)</desc>
+  </programme>
+  <programme start="20221230232602 +0000" stop="20221231010055 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Te Pego na Saída</title>
+    <title lang="xx">Fist Fight</title>
+    <desc lang="pt">Último dia do ano escolar e o professor Andy Campbell (Charlie Day) arruma problemas quando cruza o caminho de Ron Strickland (Ice Cube), um professor temido por todos. Agora eles têm uma briga marcada, e a escola inteira deve comparecer.(n)</desc>
+  </programme>
+  <programme start="20221231010055 +0000" stop="20221231025615 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Ocean's 8</title>
+    <desc lang="pt">Debbie Ocean foi condenada por um golpe cometido pelo então namorado. Na cadeia, ela formulou um super plano para se vingar do ex. Recém-liberada da prisão, Debbie logo procura sua ex-parceira Lou para colocar em prática o seu plano. Inspirada por seu irmão Danny, a mulher deseja executar um dos maiores assaltos da história, que consiste em roubar um colar de diamantes no valor de US$ 150 milhões, guardado pela joalheria Cartier em um protegido cofre. O plano será convencer a empresa a emprestar a joia para que Daphne Kluger a use no badalado evento Met Gala, em Nova Iorque. Ao lado de Lou, Debbie reúne mais integrantes para a equipe composta apenas por mulheres: Nine Ball, Amita, Constance, Rose e Tammy.(n)</desc>
+  </programme>
+  <programme start="20221231025615 +0000" stop="20221231044225 +0000" channel="HBO POP Brazil">
+    <title lang="pt">Amor à Distância</title>
+    <title lang="xx">Going The Distance</title>
+    <desc lang="pt">Drew Barrymore e Justin Long estrelam esta comédia romântica nos papéis de Erin e Garrett, um casal cujo romance de verão se torna algo mais. Erin está em Nova York por apenas mais seis semanas fazendo um estágio. Quando ela retorna para São Francisco, eles enfrentam a distância e o ceticismo de amigos e família à base de muito sexting e telefonemas tarde na noite.(n)</desc>
+  </programme>
+</tv>
