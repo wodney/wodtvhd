@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg = “ https://raw.githubusercontent.com/wodney/wodtvhd/main/hbobrasil.com.channels.xml”
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP FHD" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP FHD
 http://dns.clientetv.net:8080/3382828191p2/h40809090/62169
 #EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP HD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Globo ",Globo SP HD
