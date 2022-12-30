@@ -11,3 +11,18 @@ http://dns.clientetv.net:8080/3382828191p2/h40809090/88849
 http://dns.clientetv.net:8080/3382828191p2/h40809090/88850
 #EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 6" tvg-logo="" group-title="NFL Game Pass",NFL Game Pass 6
 http://dns.clientetv.net:8080/3382828191p2/h40809090/88851
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO ",HBO FHD
+http://dns.clientetv.net:8080/3382828191p2/h40809090/1891
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO ",HBO HD
+http://dns.clientetv.net:8080/3382828191p2/h40809090/2144
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO ",HBO
+http://dns.clientetv.net:8080/3382828191p2/h40809090/2139
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO Alternativo HD" tvg-logo="http://printv.esy.es/server/HBO%20HD.png" group-title="HBO ",HBO Alternativo HD
+http://dns.clientetv.net:8080/3382828191p2/h40809090/1271
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO Alternativo" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO ",HBO Alternativo
+http://dns.clientetv.net:8080/3382828191p2/h40809090/1140
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 FHD
+http://dns.clientetv.net:8080/3382828191p2/h40809090/1890
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 HD
+http://dns.clientetv.net:8080/3382828191p2/h40809090/2141
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="HBO ",HBO 2
