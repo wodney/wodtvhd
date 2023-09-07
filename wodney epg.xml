@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="EP">
+<channel id="Axn.br">
+<display-name>A&E HD²</display-name>
+<icon src="https://i.imgur.com/f2pJ8uW.png"/>
+</channel>
+<channel id="cinemax.br">
+<display-name>CINEMAX SD²</display-name>
+<icon src="https://i.imgur.com/2BFeYon.png"/>
+</channel>
+<channel id="viva.br">
+<display-name>VIVA FHD²</display-name>
+<icon src="https://imgur.com/xJBcvcI.png"/>
+</channel>
+<channel id="Fishtv.br">
+<display-name>FOX SPORTS 2 FHD H265²</display-name>
+<icon src="https://imgur.com/uvjIrfv.png"/>
+</channel>
+<channel id="Cine SKY">
+<display-name>Cine SKY</display-name>
+<icon src="https://i.imgur.com/f2pJ8uW.png"/>
+</channel>
+<programme channel="Cine SKY" start="20230903011600 +0000" stop="20230903014300 +0000">
+    <title>Blau und Schlau: Blue ist traurig</title>
+    <episode-num system="onscreen">S02E214</episode-num>
+    <episode-num system="pluto">5ecec17b4ae940001ad51d1f</episode-num>
+    <episode-num system="original-air-date">19970101000000 +0000</episode-num>
+    <desc>Jede Folge lädt ein zum Mitspielen und Mitdenken. Moderator Steve und Hündin Blue lösen gern Rätsel. Die lebendigen Gegenstände wie der Wecker Tickety Tack und das Pärchen Schaufel und Eimer sorgen für mächtig viel Abwechslung in Steves Wohnung.</desc>
+    <icon src="https://images.pluto.tv/series/5e99df2162e6d1001a5e1a0a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19970101</date>
+    <series-id system="pluto">5e99df2162e6d1001a5e1a0a</series-id>
+    <sub-title>Blue ist traurig</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+    <category>Animated</category>
+  </programme>
+<programme start="20230903210000 -0300" stop="20230904205900 -0300" start_timestamp="1693785600" stop_timestamp="1693871940" channel="Cine SKY" >
+		<title>Cine Sky</title>
+		<desc>O Cine Sky é um conjunto de canais onde os clientes da operadora SKY podem assistir aos filmes. (n)</desc>
+	</programme>
+<programme start="20230905012500 -0300" stop="20230905015000 -0300" channel="fox.br">
+<title>Eu, a Patroa e as Crianças || Temporada 2 Episódio 4 - Papai Perfeito</title>
+<desc>Aborrecidos com o estilo de Michael, as crianças confrontam seu pai com a descrição do pai ideal. Todos imaginam como seria se todos fossem perfeitos.</desc>
+</programme>
+<programme start="20230903074500 -0300" stop="20230903083500 -0300" start_timestamp="1693737900" stop_timestamp="1693740900" channel="Axn.br" >
+		<title>CSI - S6 E20 - Poppin&apos; Tags</title>
+		<desc>Grissom e a equipe investigam a morte de três adolescentes envolvidos em uma rivalidade de música rap. (n)</desc>
+	</programme>
+<programme start="20230903101300 -0300" stop="20230903115500 -0300" start_timestamp="1693746780" stop_timestamp="1693752900" channel="Cinemax.br" >
+		<title>17 Outra Vez</title>
+		<desc>No ensino médio, Mike foi uma estrela do basquete e tinha um futuro promissor, mas jogou tudo para o alto ao casar-se com sua namorada, que estava grávida. Quase 20 anos depois, com o casamento arruinado e um trabalho que não o leva para lugar algum, seus filhos o consideram um fracassado. Milagrosamente, ele volta a ser um adolescente de 17 anos e tem a chance de corrigir os erros que cometeu no passado. (n)</desc>
+	</programme>
+<programme start="20230903052500 -0300" stop="20230903054500 -0300" start_timestamp="1693729500" stop_timestamp="1693730700" channel="Fishtv.br" >
+		<title>Destinos</title>
+		<desc>O programa explora os lugares mais exóticos e emocionantes do mundo. (n)</desc>
+	</programme>
+<programme start="20230904203000 -0300" stop="20230904211500 -0300" start_timestamp="1693870200" stop_timestamp="1693872900" channel="Viva.br" >
+		<title>Cair em Tentação - S1 E29</title>
+		<desc>Santiago se abre com Raquel e diz que está apaixonado por ela; Carolina quer terminar com Damián, mas ele diz que ela e o bebê são dele. (n)</desc>
+	</programme>
+	</tv>
