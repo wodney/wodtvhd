@@ -1,6 +1,7 @@
-#EXTINF:-1,ES: LA 1 FHD
+#EXTM3U
+#EXTINF:-1,ES: LA 1 FHD tvg-id="LA" tvg-name="LA 1  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="CANAIS |  LA ", LA 1  FHD
 http://892863843947321276.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321276.ts
-#EXTINF:-1,ES: LA 1 HD
+#EXTINF:-1,ES: LA 1  HD tvg-id="LA" tvg-name=" LA 1  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="CANAIS |  LA ", LA 1  HD
 http://892863843947321277.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321277.ts
 #EXTINF:-1,ES: LA 1 SD
 http://892863843947321278.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321278.ts
