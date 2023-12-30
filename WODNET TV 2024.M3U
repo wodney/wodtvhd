@@ -3,13 +3,14 @@
 http://892863843947321276.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321276.ts
 #EXTINF:-1,ES: LA 1  HD tvg-id="LA" tvg-name=" LA 1  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="CANAIS |  LA ", LA 1  HD
 http://892863843947321277.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321277.ts
-#EXTINF:-1,ES: LA 1 SD
+#EXTINF:-1,ES: LA 1  SD tvg-id="LA" tvg-name=" LA 1  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="CANAIS |  LA ", LA 1  SD
 http://892863843947321278.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321278.ts
-#EXTINF:-1,ES: LA 2 FHD
+#EXTINF:-1,ES: LA 2  FHD tvg-id="LA" tvg-name=" LA 2  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="CANAIS |  LA ", LA 2  FHD
 http://892863843947321279.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321279.ts
-#EXTINF:-1,ES: LA 2 HD
+#EXTINF:-1,ES: LA 2  HD tvg-id="LA" tvg-name=" LA 2  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="CANAIS |  LA ", LA 2  HD
 http://892863843947321280.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321280.ts
-#EXTINF:-1,ES: LA 2 SD
+#EXTINF:-1,ES: LA 2 SD tvg-id="LA" tvg-name=" LA 2  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_TVE-2.svg" group-title="CANAIS |  LA ", LA 2  SD
+
 http://892863843947321281.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321281.ts
 #EXTINF:-1,ES: ANTENA 3 FHD
 http://892863843947321105.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321105.ts
