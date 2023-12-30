@@ -134,15 +134,15 @@ http://892863843947329267.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329267.ts
 http://892863843947329278.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329278.ts
 #EXTINF:-1,BR: PREMIERE 2 FHD FHD HEVC
 http://892863843947329287.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329287.ts
-#EXTINF:-1,BR: SPACE HD
+ #EXTINF:-1,BR: tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="FILMES |SERIS ", SPACE HD
 http://892863843947329289.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329289.ts
 #EXTINF:-1,BR: HBO2 HD
 http://892863843947329689.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329689.ts
 #EXTINF:-1,BR: RECORD NEWS HD
 http://892863843947329695.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329695.ts
-#EXTINF:-1,BR: SYFY HD
+# #EXTINF:-1,BR: tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="FILMES |SERIS ",SYFY HD
 http://892863843947329697.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329697.ts
-#EXTINF:-1,BR: AXN SD
+#EXTINF:-1,BR: tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="FILMES |SERIS ",AXN SD
 http://892863843947329916.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329916.ts
 #EXTINF:-1,BR: HBO PLUS HD
 http://892863843947329918.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329918.ts
