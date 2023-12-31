@@ -717,6 +717,7 @@ http://892863843947740174.ofip231209.xyz:80/play/vi46597/QStErFfvRm/740174.ts
 <desc>Lore sai da faculdade em Santo André, liga para a casa dos pais, e desliga o telefone. Ao chegar no carro que usava naquela noite, a jovem é abordada por dois homens e levada no veículo, outro carro os acompanha. Nesse meio tempo, como ela não chega em casa, sua família e seu atual namorado ficam preocupados, ligam para o celular dela e para a polícia. Na manhã seguinte, o carro é encontrado com Lore já sem vida dentro dele.</desc>
 </programme>
 <programme start="20230904181900 -0300" stop="20230904211100 -0300" channel="a.e.br">
+
 #EXTINF:-1, tvg-id=" TV SERIES" group-title=" TV SERIES | NETFLEX",Valeria S01 E01 
 http://892863843947512367.ofip231209.xyz:80/series/vi46597/QStErFfvRm/512367.mp4
 #EXTINF:-1,tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | NETFLEX",Valeria S01 E02
@@ -759,11 +760,11 @@ http://892863843947512385.ofip231209.xyz:80/series/vi46597/QStErFfvRm/512385.mp4
 http://892863843947512386.ofip231209.xyz:80/series/vi46597/QStErFfvRm/512386.mp4
 #EXTINF:-1,Valeria S03 E05
 http://892863843947512387.ofip231209.xyz:80/series/vi46597/QStErFfvRm/512387.mp4
-#EXTINF:-1,Valeria S03 E06
+#EXTINF:-1,Valeria S03 E06 group-title="TV SERIES | NETFLEX",
 http://892863843947512388.ofip231209.xyz:80/series/vi46597/QStErFfvRm/512388.mp4
-#EXTINF:-1,Valeria S03 E07
+#EXTINF:-1,Valeria S03 E07group-title="TV SERIES | NETFLEX",
 http://892863843947512389.ofip231209.xyz:80/series/vi46597/QStErFfvRm/512389.mp4
-#EXTINF:-1,Valeria S03 E08
+#EXTINF:-1,Valeria S03 E08 group-title="TV SERIES | NETFLEX",
 http://892863843947512390.ofip231209.xyz:80/series/vi46597/QStErFfvRm/512390.mp4
 http://7go.xyz:8080/series/josemariatv/superflix22/97350.mp4
 #EXTINF:-1,The Innocents S01 E01
@@ -783,22 +784,21 @@ http://appwindows.supergato.ru:8080/series/iptvjosemariacasas/10W7470745646425P/
 #EXTINF:-1,The Innocents S01 E08
 http://appwindows.supergato.ru:8080/series/iptvjosemariacasas/10W7470745646425P/18755.mkv
 #EXTINF:-1,Silicon Valley(1080p-x265) S01 E01
-#EXTINF:-1 tvg-id="TV SERIES" tvg-name="Os Normais (2001) S03 E08" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY", 
+#EXTINF:-1 tvg-id="TV SERIES" tvg-name="Os Normais (2001) S03 E08" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY", Os Normais (2001) S01 E01
 http://7go.xyz:8080/series/josemariatv/superflix22/97361.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E09" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY", 
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E09" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY", Os Normais (2001) S01 E02 
 http://7go.xyz:8080/series/josemariatv/superflix22/97362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E10" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY", 
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E10" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY", Os Normais (2001) S01 E02 
 http://7go.xyz:8080/series/josemariatv/superflix22/97363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E11" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY", 
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E12" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",   
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E12" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY", Os Normais (2001) S01 E03   
 http://7go.xyz:8080/series/josemariatv/superflix22/97365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E13" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001)  
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E13" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001) S01 E04
 http://7go.xyz:8080/series/josemariatv/superflix22/97366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E14" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001)  
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E14" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001)Os Normais (2001) S01 E05  
 http://7go.xyz:8080/series/josemariatv/superflix22/97367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E15" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001)  
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E15" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001) Os Normais (2001) S01 E06  
 http://7go.xyz:8080/series/josemariatv/superflix22/97368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E16" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001)  
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E16" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001) Os Normais (2001) S01 E07  
 http://7go.xyz:8080/series/josemariatv/superflix22/97369.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Os Normais (2001) S03 E17" tvg-logo="http://7online.xyz:8080/images/a02b068e11837f3dcf1cdb0d57f07546.png" group-title="TV SERIES | GLOBOPLAY",Os Normais (2001)  
 http://7go.xyz:8080/series/josemariatv/superflix22/97370.mp4
