@@ -60,7 +60,7 @@ http://892863843947325328.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325328.ts
 http://892863843947325730.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325730.ts
 #EXTINF:-1,BR: WOOHOO SD
 http://892863843947325767.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325767.ts
-#EXTINF:-1,BR: DAZN 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="CANAIS |SPORTS (BR)", DAZN 2 SD
 http://892863843947325969.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325969.ts
 #EXTINF:-1,BR: BAND MINAS HD
 http://892863843947326122.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326122.ts
@@ -344,11 +344,11 @@ http://892863843947333117.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333117.ts
 http://892863843947333118.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333118.ts
 #EXTINF:-1,BR: CURTA FHD
 http://892863843947333128.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333128.ts
-#EXTINF:-1,BR: DAZN 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="CANAIS |SPORTS (BR)", DAZN 01 HD
 http://892863843947333130.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333130.ts
-#EXTINF:-1,BR: DAZN 02 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="CANAIS |SPORTS (BR)", DAZN 02 HD
 http://892863843947333131.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333131.ts
-#EXTINF:-1,BR: DAZN 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="CANAIS |SPORTS (BR)", DAZN 1 SD
 http://892863843947333132.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333132.ts
 #EXTINF:-1,BR: DISCOVERY KIDS SD
 http://892863843947333133.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333133.ts
@@ -512,7 +512,7 @@ http://892863843947333312.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333312.ts
 http://892863843947333313.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333313.ts
 #EXTINF:-1,BR: TV GLOBO TRIBUNA SANTOS SD
 http://892863843947333316.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333316.ts
-#EXTINF:-1,BR: DAZN SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="CANAIS |SPORTS (BR)", DAZN SD
 http://892863843947333635.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333635.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 01 FHD
 http://892863843947338244.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338244.ts
@@ -526,9 +526,9 @@ http://892863843947338247.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338247.ts
 http://892863843947338248.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338248.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 10 FHD
 http://892863843947338253.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338253.ts
-#EXTINF:-1,BR: DAZN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="CANAIS |SPORTS (BR)", DAZN 1 HD
 http://892863843947338256.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338256.ts
-#EXTINF:-1,BR: DAZN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="CANAIS |SPORTS (BR)", DAZN 2 HD
 http://892863843947338257.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338257.ts
 #EXTINF:-1,BR: DISNEY JR SD
 http://892863843947338263.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338263.ts
