@@ -26,11 +26,11 @@ http://892863843947323652.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323652.ts
 http://892863843947323671.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323671.ts
 #EXTINF:-1,BR: NSPORTS 03 HD
 http://892863843947323712.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323712.ts
-#EXTINF:-1,BR: PREMIERE 3 SD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 3 SD
 http://892863843947323723.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323723.ts
-#EXTINF:-1,BR: PREMIERE 5 SD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 5 SD
 http://892863843947323728.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323728.ts
-#EXTINF:-1,BR: PREMIERE 7 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 7 HD
 http://892863843947323732.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323732.ts
 #EXTINF:-1,BR: RBS TV PELOTAS HD
 http://892863843947323737.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323737.ts
@@ -38,9 +38,9 @@ http://892863843947323737.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323737.ts
 http://892863843947323760.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323760.ts
 #EXTINF:-1,BR: RPC PONTA GROSSA FHD
 http://892863843947323761.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323761.ts
-#EXTINF:-1,BR: SPORTV2 HEVC
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="https://i.imgur.com/0sBb7aJ.png" group-title="CANAIS | SPORTV", SPORTV2 HEVC
 http://892863843947323775.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323775.ts
-#EXTINF:-1,BR: SPORTV3 FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 3 FHD H265¹" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="CANAIS | SPORTV", SPORTV3 FHD
 http://892863843947323776.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323776.ts
 #EXTINF:-1,BR: STAR+ 2 HD²
 http://892863843947323789.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323789.ts
@@ -108,7 +108,7 @@ http://892863843947328185.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328185.ts
 http://892863843947328217.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328217.ts
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265¹" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO HBO SIGNATURE HD
 http://892863843947328221.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328221.ts
-#EXTINF:-1,BR: PREMIERE 7 FHD FHD FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 7 FHD FHD FHD
 http://892863843947328230.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328230.ts
 #EXTINF:-1,BR: MULTISHOW HEVC
 http://892863843947328419.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328419.ts
@@ -132,7 +132,7 @@ http://892863843947329100.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329100.ts
 http://892863843947329267.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329267.ts
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NEWS SD
 http://892863843947329278.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329278.ts
-#EXTINF:-1,BR: PREMIERE 2 FHD FHD HEVC
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 2 FHD FHD HEVC
 http://892863843947329287.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329287.ts
 #EXTINF:-1,BR: SPACE HD
 http://892863843947329289.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329289.ts
@@ -192,15 +192,15 @@ http://892863843947330865.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330865.ts
 http://892863843947330866.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330866.ts
 #EXTINF:-1,BR: SBT MG HD
 http://892863843947330867.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330867.ts
-#EXTINF:-1,BR: SPORTV 3 SD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 3 FHD H265¹" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="CANAIS | SPORTV", SPORTV 3 SD
 http://892863843947330871.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330871.ts
-#EXTINF:-1,BR: SPORTV HD
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD¹" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | SPORTV", SPORTV HD
 http://892863843947330872.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330872.ts
-#EXTINF:-1,BR: TCM SD
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD¹" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS | FILMES E SÉRIES", TCM SD
 http://892863843947330881.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330881.ts
-#EXTINF:-1,BR: TLC HD
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD¹" tvg-logo="https://i.imgur.com/QpCx2ZX.png" group-title="CANAIS | VARIEDADES", TLC HD
 http://892863843947330884.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330884.ts
-#EXTINF:-1,BR: TNT SD
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD¹" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="CANAIS | FILMES E SÉRIES", TNT SD
 http://892863843947330888.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330888.ts
 #EXTINF:-1,BR: TV ANHANGUERA SD
 http://892863843947330892.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330892.ts
@@ -256,15 +256,15 @@ http://892863843947332098.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332098.ts
 http://892863843947332102.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332102.ts
 #EXTINF:-1,BR: RECORD SP SD
 http://892863843947332110.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332110.ts
-#EXTINF:-1,BR: SONY HD
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD¹" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS | FILMES E SÉRIES" SONY HD
 http://892863843947332111.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332111.ts
-#EXTINF:-1,BR: PREMIERE CLUBES SD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE CLUBES SD
 http://892863843947332277.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332277.ts
 #EXTINF:-1,BR: TV GLOBO INTEGRA JUIZ DE FORA HD
 http://892863843947332279.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332279.ts
 #EXTINF:-1,BR: CONMEBOL TV 3 FHD
 http://892863843947332514.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332514.ts
-#EXTINF:-1,BR: PREMIERE 4 FHD FHD FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 4 FHD FHD FHD
 http://892863843947332524.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332524.ts
 #EXTINF:-1,BR: RECORD GOIAS HD
 http://892863843947332527.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332527.ts
@@ -294,7 +294,7 @@ http://892863843947332770.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332770.ts
 http://892863843947332772.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332772.ts
 #EXTINF:-1,BR: LIFETIME SD
 http://892863843947332773.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332773.ts
-#EXTINF:-1,BR: MEGA PIX SD
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD¹" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | FILMES E SÉRIES", MEGA PIX SD
 http://892863843947332774.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332774.ts
 #EXTINF:-1,BR: MTV SD
 http://892863843947332775.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332775.ts
@@ -366,7 +366,7 @@ http://892863843947333146.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333146.ts
 http://892863843947333147.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333147.ts
 #EXTINF:-1,BR: ESPN HEVC
 http://892863843947333152.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333152.ts
-#EXTINF:-1,BR: FOX SPORTS 2 HEVC
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FOX SPORTS 2 FHD H265¹" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="CANAIS | ESPORTES", FOX SPORTS 2 HEVC
 http://892863843947333155.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333155.ts
 #EXTINF:-1,BR: FUTURA HD
 http://892863843947333157.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333157.ts
@@ -502,13 +502,13 @@ http://892863843947333284.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333284.ts
 http://892863843947333288.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333288.ts
 #EXTINF:-1,BR: DISCOVERY ID - INVESTIGAÇÃO HD
 http://892863843947333300.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333300.ts
-#EXTINF:-1,BR: FOX SPORTS2 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FOX SPORTS 2 FHD H265¹" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="CANAIS | ESPORTES", FOX SPORTS2 HD
 http://892863843947333305.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333305.ts
 #EXTINF:-1,BR: GLOBO RPC MARINGA HD
 http://892863843947333308.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333308.ts
 #EXTINF:-1,BR: NBA | LEAGUE PASS 05 HD
 http://892863843947333312.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333312.ts
-#EXTINF:-1,BR: PREMIERE 2 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 2 HD
 http://892863843947333313.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333313.ts
 #EXTINF:-1,BR: TV GLOBO TRIBUNA SANTOS SD
 http://892863843947333316.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333316.ts
@@ -560,19 +560,19 @@ http://892863843947343094.ofip231209.xyz:80/play/vi46597/QStErFfvRm/343094.ts
 http://892863843947344638.ofip231209.xyz:80/play/vi46597/QStErFfvRm/344638.ts
 #EXTINF:-1,BR: RBS TV FHD
 http://892863843947348534.ofip231209.xyz:80/play/vi46597/QStErFfvRm/348534.ts
-#EXTINF:-1,BR: PREMIERE 5 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 5 HD
 http://892863843947389621.ofip231209.xyz:80/play/vi46597/QStErFfvRm/389621.ts
 #EXTINF:-1,BR: ESPN4 SD
 http://892863843947442685.ofip231209.xyz:80/play/vi46597/QStErFfvRm/442685.ts
 #EXTINF:-1,BR: NICK JUNIOR HD
 http://892863843947522979.ofip231209.xyz:80/play/vi46597/QStErFfvRm/522979.ts
-#EXTINF:-1,BR: SPORTV 3 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 3 FHD H265¹" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="CANAIS | SPORTV", SPORTV 3 HD
 http://892863843947554400.ofip231209.xyz:80/play/vi46597/QStErFfvRm/554400.ts
 #EXTINF:-1,BR: BAND SPORTS HEVC
 http://892863843947567521.ofip231209.xyz:80/play/vi46597/QStErFfvRm/567521.ts
 #EXTINF:-1,BR: ESPN2 HD
 http://892863843947588660.ofip231209.xyz:80/play/vi46597/QStErFfvRm/588660.ts
-#EXTINF:-1,BR: PREMIERE CLUBES HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE CLUBES HD
 http://892863843947603540.ofip231209.xyz:80/play/vi46597/QStErFfvRm/603540.ts
 #EXTINF:-1,BR: GNT HEVC
 http://892863843947607122.ofip231209.xyz:80/play/vi46597/QStErFfvRm/607122.ts
@@ -660,7 +660,7 @@ http://892863843947728752.ofip231209.xyz:80/play/vi46597/QStErFfvRm/728752.ts
 http://892863843947730313.ofip231209.xyz:80/play/vi46597/QStErFfvRm/730313.ts
 #EXTINF:-1,BR: AXN HEVC
 http://892863843947732730.ofip231209.xyz:80/play/vi46597/QStErFfvRm/732730.ts
-#EXTINF:-1,BR: TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="US2: TNT HD" tvg-logo="" group-title="CANAIS |VARIEDADES", TNT HD
 http://892863843947732735.ofip231209.xyz:80/play/vi46597/QStErFfvRm/732735.ts
 #EXTINF:-1,BR: DISCOVERY SCIENCE FHD
 http://892863843947733454.ofip231209.xyz:80/play/vi46597/QStErFfvRm/733454.ts
@@ -670,29 +670,29 @@ http://892863843947735242.ofip231209.xyz:80/play/vi46597/QStErFfvRm/735242.ts
 http://892863843947736070.ofip231209.xyz:80/play/vi46597/QStErFfvRm/736070.ts
 #EXTINF:-1,BR: BAND NEWS SD
 http://892863843947738032.ofip231209.xyz:80/play/vi46597/QStErFfvRm/738032.ts
-#EXTINF:-1,BR: ESPN HD
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD²" tvg-logo="https://i.imgur.com/4lkG0Sa.png" group-title="CANAIS | ESPN " ESPN HD
 http://892863843947738033.ofip231209.xyz:80/play/vi46597/QStErFfvRm/738033.ts
 #EXTINF:-1,BR: GLOBO BRASILIA HD
 http://892863843947738035.ofip231209.xyz:80/play/vi46597/QStErFfvRm/738035.ts
 #EXTINF:-1,BR: BIS FHD
 http://892863843947738814.ofip231209.xyz:80/play/vi46597/QStErFfvRm/738814.ts
-#EXTINF:-1,BR: PREMIERE 3 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 3 HD
 http://892863843947738816.ofip231209.xyz:80/play/vi46597/QStErFfvRm/738816.ts
-#EXTINF:-1,BR: AMC SD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AMC SD¹" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES E SÉRIES", AMC SD
 http://892863843947740710.ofip231209.xyz:80/play/vi46597/QStErFfvRm/740710.ts
 #EXTINF:-1,BR: GLOBO RBS HD
 http://892863843947740711.ofip231209.xyz:80/play/vi46597/QStErFfvRm/740711.ts
-#EXTINF:-1,BR: PREMIERE 7 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 7 HD
 http://892863843947740712.ofip231209.xyz:80/play/vi46597/QStErFfvRm/740712.ts
 #EXTINF:-1,BR: TELECINE CULT HD
 http://892863843947740713.ofip231209.xyz:80/play/vi46597/QStErFfvRm/740713.ts
-#EXTINF:-1,BR: A&E HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD²" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS | VARIEDADES", A&E HD
 http://892863843947741060.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741060.ts
 #EXTINF:-1,BR: DISCOVERY WORLD HD
 http://892863843947741061.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741061.ts
-#EXTINF:-1,BR: E! SD
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD²" tvg-logo="https://imgur.com/qxfLv9r.png" group-title="CANAIS | VARIEDADES", E! SD
 http://892863843947741062.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741062.ts
-#EXTINF:-1,BR: ESPN SD
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD¹" tvg-logo="https://i.imgur.com/4lkG0Sa.png" group-title="CANAIS | ESPN ", ESPN SD
 http://892863843947741063.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741063.ts
 #EXTINF:-1,BR: GNT HD
 http://892863843947741064.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741064.ts
