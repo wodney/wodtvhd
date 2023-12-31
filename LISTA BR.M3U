@@ -136,7 +136,7 @@ http://892863843947329278.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329278.ts
 http://892863843947329287.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329287.ts
 #EXTINF:-1,BR: SPACE HD
 http://892863843947329289.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329289.ts
-#EXTINF:-1,BR: HBO2 HD
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD¹" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO", HBO2 HD
 http://892863843947329689.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329689.ts
 #EXTINF:-1,BR: RECORD NEWS HD
 http://892863843947329695.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329695.ts
@@ -144,11 +144,11 @@ http://892863843947329695.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329695.ts
 http://892863843947329697.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329697.ts
 #EXTINF:-1,BR: AXN SD
 http://892863843947329916.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329916.ts
-#EXTINF:-1,BR: HBO PLUS HD
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  HD²" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO", HBO PLUS HD
 http://892863843947329918.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329918.ts
 #EXTINF:-1,BR: GLOBO NORDESTE HD
 http://892863843947330316.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330316.ts
-#EXTINF:-1,BR: HBO MAX 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max HD 01¹" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )", HBO MAX 01 HD
 http://892863843947330319.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330319.ts
 #EXTINF:-1,BR: INTER TV DOS VALES HD
 http://892863843947330322.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330322.ts
@@ -176,9 +176,9 @@ http://892863843947330807.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330807.ts
 http://892863843947330809.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330809.ts
 #EXTINF:-1,BR: GLOBO RJ SD
 http://892863843947330812.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330812.ts
-#EXTINF:-1,BR: HBO FAMILY HD
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILLY FHD H265¹" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO", HBO FAMILY HD
 http://892863843947330825.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330825.ts
-#EXTINF:-1,BR: HBO POP HD
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD¹" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO", HBO POP HD
 http://892863843947330827.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330827.ts
 #EXTINF:-1,BR: HISTORY CHANNEL HEVC
 http://892863843947330835.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330835.ts
@@ -422,19 +422,19 @@ http://892863843947333209.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333209.ts
 http://892863843947333210.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333210.ts
 #EXTINF:-1,BR: NSPORTS 01 SC HD
 http://892863843947333213.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333213.ts
-#EXTINF:-1,BR: OFF SD
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD²" tvg-logo="https://imgur.com/GFgqNpF.png" group-title="CANAIS | VARIEDADES", OFF SD
 http://892863843947333214.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333214.ts
-#EXTINF:-1,BR: PARAMOUNT CHANNEL FHD
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD²" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="CANAIS | FILMES E SÉRIES", PARAMOUNT CHANNEL FHD
 http://892863843947333217.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333217.ts
-#EXTINF:-1,BR: PARAMOUNT SD
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD²" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="CANAIS | FILMES E SÉRIES", PARAMOUNT SD
 http://892863843947333218.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333218.ts
-#EXTINF:-1,BR: PREMIERE 2 SD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
 http://892863843947333219.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333219.ts
-#EXTINF:-1,BR: PREMIERE 3 FHD FHD HEVC
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD FHD HEVC
 http://892863843947333220.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333220.ts
-#EXTINF:-1,BR: PREMIERE 4 SD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 4 SD
 http://892863843947333221.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333221.ts
-#EXTINF:-1,BR: PREMIERE 6 FHD FHD FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 6 FHD FHD FHD
 http://892863843947333222.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333222.ts
 #EXTINF:-1,BR: RBS TV CAXIAS DO SUL SD
 http://892863843947333223.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333223.ts
