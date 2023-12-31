@@ -1,6 +1,6 @@
-#EXTINF:-1,BR: CINE SKY 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",SKY: CINE SKY 01 HD
 http://892863843947321838.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321838.ts
-#EXTINF:-1,BR: CINE SKY 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",SKY: SKY 10 HD
 http://892863843947321847.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321847.ts
 #EXTINF:-1,BR: CONMEBOL 02 FHD
 http://892863843947321864.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321864.ts
@@ -64,11 +64,11 @@ http://892863843947325767.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325767.ts
 http://892863843947325969.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325969.ts
 #EXTINF:-1,BR: BAND MINAS HD
 http://892863843947326122.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326122.ts
-#EXTINF:-1,BR: CINE SKY 02 HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",SKY: CINE SKY 02 HD
 http://892863843947326134.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326134.ts
-#EXTINF:-1,BR: CINE SKY 04 HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",SKY: CINE SKY 04 HD
 http://892863843947326136.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326136.ts
-#EXTINF:-1,BR: CINE SKY 06 HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",SKY: CINE SKY 06 HD
 http://892863843947326138.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326138.ts
 #EXTINF:-1,BR: CONMEBOL 01 FHD
 http://892863843947326150.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326150.ts
@@ -328,17 +328,17 @@ http://892863843947333100.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333100.ts
 http://892863843947333105.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333105.ts
 #EXTINF:-1,BR: CANAL SONY SD
 http://892863843947333110.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333110.ts
-#EXTINF:-1,BR: CINE SKY 03 HD
+##EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 03 HD
 http://892863843947333112.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333112.ts
-#EXTINF:-1,BR: CINE SKY 05 HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 05 HD
 http://892863843947333113.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333113.ts
-#EXTINF:-1,BR: CINE SKY 07 HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 07 HD
 http://892863843947333114.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333114.ts
-#EXTINF:-1,BR: CINE SKY 08 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 08 FHD
 http://892863843947333115.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333115.ts
 #EXTINF:-1,BR: CINE SKY 09 SD
 http://892863843947333116.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333116.ts
-#EXTINF:-1,BR: CINE SKY LIGA DA JUSTIÇA HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY LIGA DA JUSTIÇA HD
 http://892863843947333117.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333117.ts
 #EXTINF:-1,BR: COMBATE HD
 http://892863843947333118.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333118.ts
