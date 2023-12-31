@@ -2,11 +2,11 @@
 http://892863843947321838.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321838.ts
 #EXTINF:-1,BR: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Sky_Cinema_-_Logo_2020.svg" group-title="CANAIS |CINE SKY ",CINE SKY 10 HD
 http://892863843947321847.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321847.ts
-#EXTINF:-1,BR: tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title=" CANAIS |CONMEBOL  ",CONMEBOL 02 FHD
+#EXTINF:-1,BR: tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title=" CANAIS |CONMEBOL  ",CONMEBOL 02 FHD
 http://892863843947321864.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321864.ts
-#EXTINF:-1,BR:tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title=" CANAIS |CONMEBOL  ",CONMEBOL 03 EHD
+#EXTINF:-1,BR:tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" CANAIS |CONMEBOL  ",CONMEBOL 03 EHD
 http://892863843947321865.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321865.ts
-#EXTINF:-1,BR:tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title=" CANAIS |CONMEBOL  ",CONMEBOL 03 FHD
+#EXTINF:-1,BR:tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title=" CANAIS |CONMEBOL  ",CONMEBOL 03 FHD
 http://892863843947321870.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321870.ts
 #EXTINF:-1,BR: EPTV RIBEIRÃO PRETO SD
 http://892863843947321923.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321923.ts
@@ -80,9 +80,9 @@ http://892863843947326256.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326256.ts
 http://892863843947326429.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326429.ts
 #EXTINF:-1,BR: TNT SPORTS 02 SD
 http://892863843947326441.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326441.ts
-#EXTINF:-1,BR: CONMEBOL 03 FHD
+#EXTINF:-1,BR:tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title=" CANAIS |CONMEBOL  ", CONMEBOL 03 FHD
 http://892863843947326629.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326629.ts
-#EXTINF:-1,BR: CONMEBOL 1 FHD
+#EXTINF:-1,BR:tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title=" CANAIS |CONMEBOL  ", CONMEBOL 1 FHD
 http://892863843947326631.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326631.ts
 #EXTINF:-1,BR: DISCOVERY TLC HEVC
 http://892863843947327003.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327003.ts
@@ -90,11 +90,11 @@ http://892863843947327003.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327003.ts
 http://892863843947327517.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327517.ts
 #EXTINF:-1,BR: GLOBO VERDES MARES HD
 http://892863843947327525.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327525.ts
-#EXTINF:-1,BR: MEGAPIX HD
+#EXTINF:-1,BR:tvg-logo="https://i.pinimg.com/originals/42/50/e5/4250e5bdd1a8e6c7f245304d85c85c40.png" group-title="FILMES |SERIS ", MEGAPIX HD
 http://892863843947327688.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327688.ts
 #EXTINF:-1,BR: NATIONAL GEOGRAPHIC SD
 http://892863843947327691.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327691.ts
-#EXTINF:-1,BR: CONMEBOL 3 HD
+#EXTINF:-1,BR:tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title=" CANAIS |CONMEBOL  ", CONMEBOL 3 HD
 http://892863843947328048.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328048.ts
 #EXTINF:-1,BR: GLOBO NSC JOINVILLE HD
 http://892863843947328062.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328062.ts
@@ -112,9 +112,9 @@ http://892863843947328221.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328221.ts
 http://892863843947328230.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328230.ts
 #EXTINF:-1,BR: MULTISHOW HEVC
 http://892863843947328419.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328419.ts
-#EXTINF:-1,BR: CONMEBOL TV 2 FHD
+#EXTINF:-1,BR:tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title=" CANAIS |CONMEBOL  ", CONMEBOL TV 2 FHD
 http://892863843947328875.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328875.ts
-#EXTINF:-1,BR: CONMEBOL TV 4 FHD
+#EXTINF:-1,BR:tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title=" CANAIS |CONMEBOL  ", CONMEBOL TV 4 FHD
 http://892863843947328878.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328878.ts
 #EXTINF:-1,BR: ESPN2 SD
 http://892863843947328882.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328882.ts
