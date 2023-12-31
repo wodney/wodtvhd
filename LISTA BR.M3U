@@ -454,23 +454,23 @@ http://892863843947333236.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333236.ts
 http://892863843947333237.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333237.ts
 #EXTINF:-1,BR: STAR CHANNEL FHD
 http://892863843947333241.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333241.ts
-#EXTINF:-1,BR: STAR+ 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1¹" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 01 HD
 http://892863843947333245.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333245.ts
-#EXTINF:-1,BR: STAR+ 02 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1¹" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )", STAR+ 02 HD
 http://892863843947333246.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333246.ts
-#EXTINF:-1,BR: STAR+ 03 SD
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1¹" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )", STAR+ 03 SD
 http://892863843947333247.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333247.ts
-#EXTINF:-1,BR: TELECINE ACTION HD
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="CANAIS | TELECINE ",TELECINE ACTION HD
 http://892863843947333252.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333252.ts
-#EXTINF:-1,BR: TELECINE CULT HD
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD²" tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="CANAIS | TELECINE ",TELECINE CULT HD
 http://892863843947333255.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333255.ts
-#EXTINF:-1,BR: TELECINE FUN SD
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD¹" tvg-logo="https://imgur.com/9uzg3hN.png" group-title="CANAIS | TELECINE ", TELECINE FUN SD
 http://892863843947333258.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333258.ts
-#EXTINF:-1,BR: TNT SERIES HD
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD H265¹" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="CANAIS | FILMES E SÉRIES", TNT SERIES FHD
 http://892863843947333264.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333264.ts
 #EXTINF:-1,BR: TNT SPORTS 01 HD
 http://892863843947333265.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333265.ts
-#EXTINF:-1,BR: TNT SÉRIES HD
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD H265¹" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="CANAIS | FILMES E SÉRIES", TNT SÉRIES HD
 http://892863843947333266.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333266.ts
 #EXTINF:-1,BR: TOONCAST SD
 http://892863843947333270.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333270.ts
