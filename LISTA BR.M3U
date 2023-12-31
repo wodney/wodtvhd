@@ -8,15 +8,15 @@ http://892863843947321864.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321864.ts
 http://892863843947321865.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321865.ts
 #EXTINF:-1,BR: CONMEBOL 04 FHD
 http://892863843947321870.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321870.ts
-#EXTINF:-1,BR: EPTV RIBEIRÃO PRETO SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", EPTV RIBEIRÃO PRETO SD
 http://892863843947321923.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321923.ts
-#EXTINF:-1,BR: GLOBO ALAGOAS HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO ALAGOAS HD
 http://892863843947321950.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321950.ts
-#EXTINF:-1,BR: GLOBO NSC BLUMENAU HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NSC BLUMENAU HD
 http://892863843947321971.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321971.ts
-#EXTINF:-1,BR: GLOBO RPC CURITIBA HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO RPC CURITIBA HD
 http://892863843947321985.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321985.ts
-#EXTINF:-1,BR: GLOBO TV HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV HD
 http://892863843947322001.ofip231209.xyz:80/play/vi46597/QStErFfvRm/322001.ts
 #EXTINF:-1,BR: CINEMAX HD
 http://892863843947323434.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323434.ts
@@ -56,7 +56,7 @@ http://892863843947323833.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323833.ts
 http://892863843947324913.ofip231209.xyz:80/play/vi46597/QStErFfvRm/324913.ts
 #EXTINF:-1,BR: CONMEBOL 2 FHD
 http://892863843947325328.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325328.ts
-#EXTINF:-1,BR: GLOBO EPTV RIBEIRÃO PRETO HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO EPTV RIBEIRÃO PRETO HD
 http://892863843947325730.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325730.ts
 #EXTINF:-1,BR: WOOHOO SD
 http://892863843947325767.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325767.ts
@@ -86,19 +86,19 @@ http://892863843947326629.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326629.ts
 http://892863843947326631.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326631.ts
 #EXTINF:-1,BR: DISCOVERY TLC HEVC
 http://892863843947327003.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327003.ts
-#EXTINF:-1,BR: GLOBO EPTV CAMPINAS SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO EPTV CAMPINAS SD
 http://892863843947327517.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327517.ts
-#EXTINF:-1,BR: GLOBO VERDES MARES HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO VERDES MARES HD
 http://892863843947327525.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327525.ts
-#EXTINF:-1,BR: MEGAPIX HD
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD¹" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | FILMES E SÉRIES", MEGAPIX HD
 http://892863843947327688.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327688.ts
 #EXTINF:-1,BR: NATIONAL GEOGRAPHIC SD
 http://892863843947327691.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327691.ts
 #EXTINF:-1,BR: CONMEBOL 3 HD
 http://892863843947328048.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328048.ts
-#EXTINF:-1,BR: GLOBO NSC JOINVILLE HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NSC JOINVILLE HD
 http://892863843947328062.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328062.ts
-#EXTINF:-1,BR: GLOBO RPC TV SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO RPC TV SD
 http://892863843947328063.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328063.ts
 #EXTINF:-1,BR: BAND NEWS HD
 http://892863843947328174.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328174.ts
@@ -106,7 +106,7 @@ http://892863843947328174.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328174.ts
 http://892863843947328185.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328185.ts
 #EXTINF:-1,BR: HBO MUNDI SD
 http://892863843947328217.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328217.ts
-#EXTINF:-1,BR: HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265¹" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO HBO SIGNATURE HD
 http://892863843947328221.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328221.ts
 #EXTINF:-1,BR: PREMIERE 7 FHD FHD FHD
 http://892863843947328230.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328230.ts
@@ -118,7 +118,7 @@ http://892863843947328875.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328875.ts
 http://892863843947328878.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328878.ts
 #EXTINF:-1,BR: ESPN2 SD
 http://892863843947328882.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328882.ts
-#EXTINF:-1,BR: GLOBO BRASILIA HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO BRASILIA HD
 http://892863843947328888.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328888.ts
 #EXTINF:-1,BR: STUDIO UNIVERSAL HD
 http://892863843947328909.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328909.ts
@@ -130,7 +130,7 @@ http://892863843947328918.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328918.ts
 http://892863843947329100.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329100.ts
 #EXTINF:-1,BR: A&E HEVC
 http://892863843947329267.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329267.ts
-#EXTINF:-1,BR: GLOBO NEWS SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NEWS SD
 http://892863843947329278.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329278.ts
 #EXTINF:-1,BR: PREMIERE 2 FHD FHD HEVC
 http://892863843947329287.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329287.ts
@@ -146,7 +146,7 @@ http://892863843947329697.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329697.ts
 http://892863843947329916.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329916.ts
 #EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  HD²" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO", HBO PLUS HD
 http://892863843947329918.ofip231209.xyz:80/play/vi46597/QStErFfvRm/329918.ts
-#EXTINF:-1,BR: GLOBO NORDESTE HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NORDESTE HD
 http://892863843947330316.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330316.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max HD 01¹" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )", HBO MAX 01 HD
 http://892863843947330319.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330319.ts
@@ -166,15 +166,15 @@ http://892863843947330779.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330779.ts
 http://892863843947330790.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330790.ts
 #EXTINF:-1,BR: FISH TV HD
 http://892863843947330795.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330795.ts
-#EXTINF:-1,BR: GLOBO EPTV RIBEIRÃƒO PRETO HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO EPTV RIBEIRÃƒO PRETO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO EPTV RIBEIRÃƒO PRETO HD
 http://892863843947330801.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330801.ts
-#EXTINF:-1,BR: GLOBO FLORIANOPOLIS HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE",GLOBO FLORIANOPOLIS HD
 http://892863843947330802.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330802.ts
-#EXTINF:-1,BR: GLOBO NSC CRICIUMA HD
+#EXTINF#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NSC CRICIUMA HD
 http://892863843947330807.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330807.ts
-#EXTINF:-1,BR: GLOBO NSC FLORIPA FHD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NSC FLORIPA FHD
 http://892863843947330809.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330809.ts
-#EXTINF:-1,BR: GLOBO RJ SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO RJ SD
 http://892863843947330812.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330812.ts
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILLY FHD H265¹" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO", HBO FAMILY HD
 http://892863843947330825.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330825.ts
@@ -242,9 +242,9 @@ http://892863843947331783.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331783.ts
 http://892863843947331976.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331976.ts
 #EXTINF:-1,BR: FOOD NETWORK HEVC
 http://892863843947331977.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331977.ts
-#EXTINF:-1,BR: GLOBO MINAS SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO MINAS SD
 http://892863843947331978.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331978.ts
-#EXTINF:-1,BR: GLOBO HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO HD
 http://892863843947331980.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331980.ts
 #EXTINF:-1,BR: VIVA SD
 http://892863843947331987.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331987.ts
@@ -300,9 +300,9 @@ http://892863843947332774.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332774.ts
 http://892863843947332775.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332775.ts
 #EXTINF:-1,BR: TBS FHD
 http://892863843947332781.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332781.ts
-#EXTINF:-1,BR: GLOBO SP SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO SP SD
 http://892863843947332927.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332927.ts
-#EXTINF:-1,BR: GLOBO TV VANGUARDA S. JOSE DOS CAMPOS HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV VANGUARDA S. JOSE DOS CAMPOS HD
 http://892863843947332928.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332928.ts
 #EXTINF:-1,BR: HBO 2 FHD
 http://892863843947332929.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332929.ts
@@ -358,9 +358,9 @@ http://892863843947333137.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333137.ts
 http://892863843947333141.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333141.ts
 #EXTINF:-1,BR: E! HD
 http://892863843947333142.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333142.ts
-#EXTINF:-1,BR: EPTV CAMPINAS SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", EPTV CAMPINAS SD
 http://892863843947333145.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333145.ts
-#EXTINF:-1,BR: EPTV SÃO CARLOS SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", EPTV SÃO CARLOS SD
 http://892863843947333146.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333146.ts
 #EXTINF:-1,BR: ESPN EXTRA HD
 http://892863843947333147.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333147.ts
@@ -372,35 +372,35 @@ http://892863843947333155.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333155.ts
 http://892863843947333157.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333157.ts
 #EXTINF:-1,BR: FX HD
 http://892863843947333158.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333158.ts
-#EXTINF:-1,BR: GLOBO BAHIA HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO BAHIA HD
 http://892863843947333159.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333159.ts
-#EXTINF:-1,BR: GLOBO BAURU HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO BAURU HD
 http://892863843947333160.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333160.ts
-#EXTINF:-1,BR: GLOBO CENTRO AMÉRICA HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO CENTRO AMÉRICA HD
 http://892863843947333161.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333161.ts
-#EXTINF:-1,BR: GLOBO INTER TV LITORAL FHD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO INTER TV LITORAL FHD
 http://892863843947333163.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333163.ts
-#EXTINF:-1,BR: GLOBO NSC CHAPECO HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NSC CHAPECO HD
 http://892863843947333168.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333168.ts
-#EXTINF:-1,BR: GLOBO RBS FHD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO RBS FHD
 http://892863843947333171.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333171.ts
-#EXTINF:-1,BR: GLOBO REDE AMAZONICA MANAUS SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO REDE AMAZONICA MANAUS SD
 http://892863843947333173.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333173.ts
-#EXTINF:-1,BR: GLOBO SERGIPE HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO SERGIPE HD
 http://892863843947333174.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333174.ts
-#EXTINF:-1,BR: GLOBO TRIBUNA SANTOS FHD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TRIBUNA SANTOS FHD
 http://892863843947333177.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333177.ts
-#EXTINF:-1,BR: GLOBO TV BAHIA SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV BAHIA SD
 http://892863843947333178.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333178.ts
-#EXTINF:-1,BR: GLOBO TV GAZETA VITORIA HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV GAZETA VITORIA HD
 http://892863843947333179.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333179.ts
-#EXTINF:-1,BR: GLOBO TV LIBERAL BELEM HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV LIBERAL BELEM HD
 http://892863843947333180.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333180.ts
-#EXTINF:-1,BR: GLOBO TV MORENA MS HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV MORENA MS HD
 http://892863843947333181.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333181.ts
-#EXTINF:-1,BR: GLOBO TV TEM BAURU HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV TEM BAURU HD
 http://892863843947333183.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333183.ts
-#EXTINF:-1,BR: GLOBO TV TEM SÃO JOSÉ DO RIO PRETO SD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV TEM SÃO JOSÉ DO RIO PRETO SD
 http://892863843947333184.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333184.ts
 #EXTINF:-1,BR: GLOOB SD
 http://892863843947333185.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333185.ts
@@ -514,17 +514,17 @@ http://892863843947333313.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333313.ts
 http://892863843947333316.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333316.ts
 #EXTINF:-1,BR: DAZN SD
 http://892863843947333635.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333635.ts
-#EXTINF:-1,BR: CINE SKY 01 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 01 FHD
 http://892863843947338244.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338244.ts
-#EXTINF:-1,BR: CINE SKY 02 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 02 FHD
 http://892863843947338245.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338245.ts
-#EXTINF:-1,BR: CINE SKY 03 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2:BR: CINE SKY 03 FHD
 http://892863843947338246.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338246.ts
-#EXTINF:-1,BR: CINE SKY 04 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 04 FHD
 http://892863843947338247.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338247.ts
-#EXTINF:-1,BR: CINE SKY 05 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 05 FHD
 http://892863843947338248.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338248.ts
-#EXTINF:-1,BR: CINE SKY 10 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES",UK2: CINE SKY 10 FHD
 http://892863843947338253.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338253.ts
 #EXTINF:-1,BR: DAZN 1 HD
 http://892863843947338256.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338256.ts
@@ -534,11 +534,11 @@ http://892863843947338257.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338257.ts
 http://892863843947338263.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338263.ts
 #EXTINF:-1,BR: EVANGELIZAR SD
 http://892863843947338267.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338267.ts
-#EXTINF:-1,BR: GLOBO NSC FLORIPA HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NSC FLORIPA HD
 http://892863843947338270.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338270.ts
 #EXTINF:-1,BR: GLOBO TRIBUNA SANTOS HD
 http://892863843947338273.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338273.ts
-#EXTINF:-1,BR: HBO MAX 02 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max HD 02¹" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )" HBO MAX 02 HD
 http://892863843947338277.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338277.ts
 #EXTINF:-1,BR: PARAMOUNT NETWORK SD
 http://892863843947338283.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338283.ts
@@ -578,7 +578,7 @@ http://892863843947603540.ofip231209.xyz:80/play/vi46597/QStErFfvRm/603540.ts
 http://892863843947607122.ofip231209.xyz:80/play/vi46597/QStErFfvRm/607122.ts
 #EXTINF:-1,BR: BOOMERANG HD
 http://892863843947630313.ofip231209.xyz:80/play/vi46597/QStErFfvRm/630313.ts
-#EXTINF:-1,BR: HBO HD
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO", HBO HD
 http://892863843947631803.ofip231209.xyz:80/play/vi46597/QStErFfvRm/631803.ts
 #EXTINF:-1,BR: SYFY FHD
 http://892863843947631806.ofip231209.xyz:80/play/vi46597/QStErFfvRm/631806.ts
@@ -592,15 +592,15 @@ http://892863843947639618.ofip231209.xyz:80/play/vi46597/QStErFfvRm/639618.ts
 http://892863843947648484.ofip231209.xyz:80/play/vi46597/QStErFfvRm/648484.ts
 #EXTINF:-1,BR: TELECINE FUN HEVC
 http://892863843947652000.ofip231209.xyz:80/play/vi46597/QStErFfvRm/652000.ts
-#EXTINF:-1,BR: OFF HD
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD²" tvg-logo="https://imgur.com/GFgqNpF.png" group-title="CANAIS | VARIEDADES", OFF HD
 http://892863843947662670.ofip231209.xyz:80/play/vi46597/QStErFfvRm/662670.ts
 #EXTINF:-1,BR: BAND SPORTS HD
 http://892863843947672394.ofip231209.xyz:80/play/vi46597/QStErFfvRm/672394.ts
-#EXTINF:-1,BR: HBO POP FHD
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD¹" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO", HBO POP FHD
 http://892863843947672398.ofip231209.xyz:80/play/vi46597/QStErFfvRm/672398.ts
 #EXTINF:-1,BR: MULTISHOW FHD
 http://892863843947673068.ofip231209.xyz:80/play/vi46597/QStErFfvRm/673068.ts
-#EXTINF:-1,BR: TELECINE CULT FHD
+#EXTINF:-1,BR: #EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="CANAIS | TELECINE ", CULT FHD
 http://892863843947674936.ofip231209.xyz:80/play/vi46597/QStErFfvRm/674936.ts
 #EXTINF:-1,BR: MTV FHD
 http://892863843947676870.ofip231209.xyz:80/play/vi46597/QStErFfvRm/676870.ts
@@ -612,7 +612,7 @@ http://892863843947689915.ofip231209.xyz:80/play/vi46597/QStErFfvRm/689915.ts
 http://892863843947691225.ofip231209.xyz:80/play/vi46597/QStErFfvRm/691225.ts
 #EXTINF:-1,BR: DISCOVERY KIDS FHD
 http://892863843947693491.ofip231209.xyz:80/play/vi46597/QStErFfvRm/693491.ts
-#EXTINF:-1,BR: HBO 2 SD
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD¹" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO" HBO 2 SD
 http://892863843947693493.ofip231209.xyz:80/play/vi46597/QStErFfvRm/693493.ts
 #EXTINF:-1,BR: TELECINE FUN HD
 http://892863843947696074.ofip231209.xyz:80/play/vi46597/QStErFfvRm/696074.ts
@@ -620,11 +620,11 @@ http://892863843947696074.ofip231209.xyz:80/play/vi46597/QStErFfvRm/696074.ts
 http://892863843947704098.ofip231209.xyz:80/play/vi46597/QStErFfvRm/704098.ts
 #EXTINF:-1,BR: TELECINE PREMIUM SD
 http://892863843947704102.ofip231209.xyz:80/play/vi46597/QStErFfvRm/704102.ts
-#EXTINF:-1,BR: GLOBO BRASILIA HEVC
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO BRASILIA HEVC
 http://892863843947706729.ofip231209.xyz:80/play/vi46597/QStErFfvRm/706729.ts
-#EXTINF:-1,BR: GLOBO RJ FHD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO RJ FHD
 http://892863843947708762.ofip231209.xyz:80/play/vi46597/QStErFfvRm/708762.ts
-#EXTINF:-1,BR: GLOBO SP FHD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO SP FHD
 http://892863843947708763.ofip231209.xyz:80/play/vi46597/QStErFfvRm/708763.ts
 #EXTINF:-1,BR: CNN BRASIL SD
 http://892863843947711790.ofip231209.xyz:80/play/vi46597/QStErFfvRm/711790.ts
