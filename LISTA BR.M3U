@@ -3,11 +3,11 @@
 http://892863843947321838.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321838.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES SKY",  SKY 10 HD
 http://892863843947321847.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321847.ts
-#EXTINF:-1,BR: CONMEBOL 02 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 02 FHD
 http://892863843947321864.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321864.ts
-#EXTINF:-1,BR: CONMEBOL 02 SD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 02 SD
 http://892863843947321865.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321865.ts
-#EXTINF:-1,BR: CONMEBOL 04 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 04 FHD
 http://892863843947321870.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321870.ts
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", EPTV RIBEIRÃO PRETO SD
 http://892863843947321923.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321923.ts
@@ -23,9 +23,9 @@ http://892863843947322001.ofip231209.xyz:80/play/vi46597/QStErFfvRm/322001.ts
 http://892863843947323434.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323434.ts
 #EXTINF:-1,BR: GNT SD
 http://892863843947323652.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323652.ts
-#EXTINF:-1,BR: HBO+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="LA2: HBO plus" tvg-logo="https://i.imgur.com/Rqxr2fj.jpg" group-title="CANAIS | LATINOS (LA 2)",LA2: HBO plus  
 http://892863843947323671.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323671.ts
-#EXTINF:-1,BR: NSPORTS 03 HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="NSPORTS" tvg-logo="http://i.imgur.com/i5S6MHh.png" group-title="SPORT| NSPORTS",NSPORTS03 HD
 http://892863843947323712.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323712.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 3 SD
 http://892863843947323723.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323723.ts
@@ -55,7 +55,7 @@ http://892863843947323832.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323832.ts
 http://892863843947323833.ofip231209.xyz:80/play/vi46597/QStErFfvRm/323833.ts
 #EXTINF:-1,BR: HISTORY2 FHD
 http://892863843947324913.ofip231209.xyz:80/play/vi46597/QStErFfvRm/324913.ts
-#EXTINF:-1,BR: CONMEBOL 2 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 2 FHD
 http://892863843947325328.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325328.ts
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO EPTV RIBEIRÃO PRETO HD
 http://892863843947325730.ofip231209.xyz:80/play/vi46597/QStErFfvRm/325730.ts
@@ -71,7 +71,7 @@ http://892863843947326134.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326134.ts
 http://892863843947326136.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326136.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS |FILMES SKY", CINE SKY 06 HD
 http://892863843947326138.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326138.ts
-#EXTINF:-1,BR: CONMEBOL 01 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 01 FHD
 http://892863843947326150.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326150.ts
 #EXTINF:-1,BR: REDE VIDA FHD
 http://892863843947326235.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326235.ts
@@ -81,11 +81,11 @@ http://892863843947326256.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326256.ts
 http://892863843947326429.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326429.ts
 #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT NOVELAS HD¹" tvg-logo="https://i.imgur.com/Mqc0BOR.png" group-title="CANAIS | SPORTS", TNT SPORTS 02 SD
 http://892863843947326441.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326441.ts
-#EXTINF:-1,BR: CONMEBOL 03 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 03 FHD
 http://892863843947326629.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326629.ts
-#EXTINF:-1,BR: CONMEBOL 1 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 1 FHD
 http://892863843947326631.ofip231209.xyz:80/play/vi46597/QStErFfvRm/326631.ts
-#EXTINF:-1,BR: DISCOVERY TLC HEVC
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC FHD²" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="CANAIS | DISCOVERY",DISCOVERY TLC  HD  
 http://892863843947327003.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327003.ts
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO EPTV CAMPINAS SD
 http://892863843947327517.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327517.ts
@@ -95,7 +95,7 @@ http://892863843947327525.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327525.ts
 http://892863843947327688.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327688.ts
 #EXTINF:-1,BR: NATIONAL GEOGRAPHIC SD
 http://892863843947327691.ofip231209.xyz:80/play/vi46597/QStErFfvRm/327691.ts
-#EXTINF:-1,BR: CONMEBOL 3 HD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 HD
 http://892863843947328048.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328048.ts
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO NSC JOINVILLE HD
 http://892863843947328062.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328062.ts
@@ -105,19 +105,19 @@ http://892863843947328063.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328063.ts
 http://892863843947328174.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328174.ts
 #EXTINF:-1,BR: COMEDY CENTRAL SD
 http://892863843947328185.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328185.ts
-#EXTINF:-1,BR: HBO MUNDI SD
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD¹" tvg-logo="http://i.imgur.com/g3Cjc7J.png" group-title="CANAIS | HBO",HBO MUNDISD
 http://892863843947328217.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328217.ts
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265¹" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO", HBO SIGNATURE HD
 http://892863843947328221.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328221.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 7 FHD FHD FHD
 http://892863843947328230.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328230.ts
-#EXTINF:-1,BR: MULTISHOW HEVC
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/1024px-Multishow.png" group-title="CANAIS | UHD  ",MULTISHOW HD
 http://892863843947328419.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328419.ts
-#EXTINF:-1,BR: CONMEBOL TV 2 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL TV 2 FHD
 http://892863843947328875.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328875.ts
-#EXTINF:-1,BR: CONMEBOL TV 4 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL TV 4 FHD
 http://892863843947328878.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328878.ts
-#EXTINF:-1,BR: ESPN2 SD
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD¹" tvg-logo="http://i.imgur.com/rD7co5A.png" group-title="CANAIS | ESPN",ESPN 2 SD 
 http://892863843947328882.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328882.ts
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO BRASILIA HD
 http://892863843947328888.ofip231209.xyz:80/play/vi46597/QStErFfvRm/328888.ts
@@ -161,9 +161,9 @@ http://892863843947330759.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330759.ts
 http://892863843947330761.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330761.ts
 #EXTINF:-1,BR: BOOMERANG SD
 http://892863843947330767.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330767.ts
-#EXTINF:-1,BR: DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCEHD
 http://892863843947330779.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330779.ts
-#EXTINF:-1,BR: ESPN3 FHD
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD¹" tvg-logo="http://i.imgur.com/CxeUC2W.png" group-title="CANAIS | ESPN",ESPN 3 FHD
 http://892863843947330790.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330790.ts
 #EXTINF:-1,BR: FISH TV HD
 http://892863843947330795.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330795.ts
@@ -207,39 +207,39 @@ http://892863843947330888.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330888.ts
 http://892863843947330892.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330892.ts
 #EXTINF:-1,BR: TV TEM BAURU HD
 http://892863843947330897.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330897.ts
-#EXTINF:-1,BR: WARNER CHANNEL SD
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="CANAIS | FILMES E SÉRIES",WARNER SD²
 http://892863843947330903.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330903.ts
-#EXTINF:-1,BR: WARNER HD
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="CANAIS | FILMES E SÉRIES",WARNER HD²
 http://892863843947330904.ofip231209.xyz:80/play/vi46597/QStErFfvRm/330904.ts
 #EXTINF:-1,BR: RECORD CAMPINAS HD
 http://892863843947331049.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331049.ts
-#EXTINF:-1,BR: NSPORTS 01 HD
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 FHD
 http://892863843947331152.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331152.ts
-#EXTINF:-1,BR: NSPORTS 02 SC HD
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 SD
 http://892863843947331153.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331153.ts
-#EXTINF:-1,BR: NSPORTS 02 HD
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2  HD
 http://892863843947331154.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331154.ts
 #EXTINF:-1,BR: EVANGELIZAR HD
 http://892863843947331433.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331433.ts
 #EXTINF:-1,BR: MULTI SHOW SD
 http://892863843947331434.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331434.ts
-#EXTINF:-1,BR: BIS SD
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD²" tvg-logo="https://imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS SD²
 http://892863843947331753.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331753.ts
 #EXTINF:-1,BR: CNN BRASIL SD
 http://892863843947331755.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331755.ts
-#EXTINF:-1,BR: CONMEBOL TV 1 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL TV 1 FHD
 http://892863843947331757.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331757.ts
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH 4K¹" tvg-logo="https://iili.io/DX5cXt.png" group-title="CANAIS | UHD (4K)",DISCOVERY HOME & HEALTH  HD
 http://892863843947331758.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331758.ts
 #EXTINF:-1,BR: DISNEY CHANNEL SD
 http://892863843947331764.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331764.ts
-#EXTINF:-1,BR: HBO SD
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO SD
 http://892863843947331774.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331774.ts
 #EXTINF:-1,BR: NICKELODEON SD
 http://892863843947331776.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331776.ts
 #EXTINF:-1,BR: STAR LIFE HEVC
 http://892863843947331783.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331783.ts
-#EXTINF:-1,BR: CONMEBOL 01 SD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 01 SD
 http://892863843947331976.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331976.ts
 #EXTINF:-1,BR: FOOD NETWORK HEVC
 http://892863843947331977.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331977.ts
@@ -249,11 +249,11 @@ http://892863843947331978.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331978.ts
 http://892863843947331980.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331980.ts
 #EXTINF:-1,BR: VIVA SD
 http://892863843947331987.ofip231209.xyz:80/play/vi46597/QStErFfvRm/331987.ts
-#EXTINF:-1,BR: DISCOVERY CHANNEL HEVC
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="http://i.imgur.com/AzFdZL1.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL  HEVC
 http://892863843947332095.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332095.ts
-#EXTINF:-1,BR: DISCOVERY TURBO SD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO 4K¹" tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="CANAIS | UHD (4K)",DISCOVERY TURBO  SD
 http://892863843947332098.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332098.ts
-#EXTINF:-1,BR: ESPN4 HEVC
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://i.imgur.com/Q3uBwEi.png" group-title="CANAIS | ESPN",ESPN 4 FHD
 http://892863843947332102.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332102.ts
 #EXTINF:-1,BR: RECORD SP SD
 http://892863843947332110.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332110.ts
@@ -263,13 +263,13 @@ http://892863843947332111.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332111.ts
 http://892863843947332277.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332277.ts
 #EXTINF:-1,BR: TV GLOBO INTEGRA JUIZ DE FORA HD
 http://892863843947332279.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332279.ts
-#EXTINF:-1,BR: CONMEBOL TV 3 FHD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", TV 3 FHD
 http://892863843947332514.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332514.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 4 FHD FHD FHD
 http://892863843947332524.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332524.ts
 #EXTINF:-1,BR: RECORD GOIAS HD
 http://892863843947332527.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332527.ts
-#EXTINF:-1,BR: SPORTV 2 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 3 FHD H265¹" tvg-logo="https://i.imgur.com/Cm90k6d.png" group-title="CANAIS | SPORTV", SPORTV 2 HD
 http://892863843947332531.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332531.ts
 #EXTINF:-1,BR: TV VANGUARDA S.J. DOS CAMPOS SD
 http://892863843947332537.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332537.ts
@@ -281,13 +281,13 @@ http://892863843947332743.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332743.ts
 http://892863843947332746.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332746.ts
 #EXTINF:-1,BR: CARTOON NETWORK HD
 http://892863843947332747.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332747.ts
-#EXTINF:-1,BR: CONMEBOL TV 2 SD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL TV 2 SD
 http://892863843947332753.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332753.ts
-#EXTINF:-1,BR: CONMEBOL TV 4 HD
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL TV 4 HD
 http://892863843947332754.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332754.ts
-#EXTINF:-1,BR: DISCOVERY H&H SD
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD¹" tvg-logo="https://iili.io/DX5cXt.png" group-title="CANAIS | DISCOVERY",DISCOVERY HOME & HEALTH SD
 http://892863843947332756.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332756.ts
-#EXTINF:-1,BR: DISCOVERY WORLD HEVC
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://i.imgur.com/hqugBkC.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD
 http://892863843947332760.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332760.ts
 #EXTINF:-1,BR: HGTV HD
 http://892863843947332770.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332770.ts
@@ -305,7 +305,7 @@ http://892863843947332781.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332781.ts
 http://892863843947332927.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332927.ts
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", GLOBO TV VANGUARDA S. JOSE DOS CAMPOS HD
 http://892863843947332928.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332928.ts
-#EXTINF:-1,BR: HBO 2 FHD
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO   2 FHD
 http://892863843947332929.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332929.ts
 #EXTINF:-1,BR: NBA | LEAGUE PASS 04 HD
 http://892863843947332934.ofip231209.xyz:80/play/vi46597/QStErFfvRm/332934.ts
@@ -351,9 +351,9 @@ http://892863843947333130.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333130.ts
 http://892863843947333131.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333131.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="CANAIS |SPORTS (BR)", DAZN 1 SD
 http://892863843947333132.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333132.ts
-#EXTINF:-1,BR: DISCOVERY KIDS SD
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD
 http://892863843947333133.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333133.ts
-#EXTINF:-1,BR: DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD¹" tvg-logo="http://i.imgur.com/qZ8RMRi.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER  HD
 http://892863843947333137.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333137.ts
 #EXTINF:-1,BR: DISNEY JR FHD
 http://892863843947333141.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333141.ts
@@ -363,9 +363,9 @@ http://892863843947333142.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333142.ts
 http://892863843947333145.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333145.ts
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="GLOBO | SUL - SULDESTE", EPTV SÃO CARLOS SD
 http://892863843947333146.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333146.ts
-#EXTINF:-1,BR: ESPN EXTRA HD
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="https://i.pinimg.com/originals/d4/dc/28/d4dc28338b7b19058eea662236cdb212.png" group-title="CANAIS | ESPN",ESPN EXTRA HD
 http://892863843947333147.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333147.ts
-#EXTINF:-1,BR: ESPN HEVC
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD²" tvg-logo="https://i.pinimg.com/originals/54/ca/ca/54cacaef2e4d2058dfb997d1c6ff78e4.png" group-title="CANAIS | ESPN",ESPN SD²
 http://892863843947333152.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333152.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="FOX SPORTS 2 FHD H265¹" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="CANAIS | SPORTS", FOX SPORTS 2 HEVC
 http://892863843947333155.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333155.ts
@@ -407,7 +407,7 @@ http://892863843947333184.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333184.ts
 http://892863843947333185.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333185.ts
 #EXTINF:-1,BR: GLOOBINHO SD
 http://892863843947333188.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333188.ts
-#EXTINF:-1,BR: HBO XTREME SD
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME SD
 http://892863843947333195.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333195.ts
 #EXTINF:-1,BR: HISTORY SD
 http://892863843947333198.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333198.ts
@@ -421,7 +421,7 @@ http://892863843947333207.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333207.ts
 http://892863843947333209.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333209.ts
 #EXTINF:-1,BR: NBA | LEAGUE PASS 03 FHD
 http://892863843947333210.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333210.ts
-#EXTINF:-1,BR: NSPORTS 01 SC HD
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="NSPORTS" tvg-logo="http://i.imgur.com/i5S6MHh.png" group-title="SPORT| NSPORTS",NSPORTS 01 SC HD
 http://892863843947333213.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333213.ts
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD²" tvg-logo="https://imgur.com/GFgqNpF.png" group-title="CANAIS | VARIEDADES", OFF SD
 http://892863843947333214.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333214.ts
@@ -501,7 +501,7 @@ http://892863843947333282.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333282.ts
 http://892863843947333284.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333284.ts
 #EXTINF:-1,BR: ZOOMOO SD
 http://892863843947333288.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333288.ts
-#EXTINF:-1,BR: DISCOVERY ID - INVESTIGAÇÃO HD
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY INVESTIGACAO SD²" tvg-logo="http://i.imgur.com/r5M4mjv.png" group-title="CANAIS | DISCOVERY", DISCOVERY ID - INVESTIGAÇÃO HD
 http://892863843947333300.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333300.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="FOX SPORTS 2 FHD H265¹" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="CANAIS | ESPORTES", FOX SPORTS2 HD
 http://892863843947333305.ofip231209.xyz:80/play/vi46597/QStErFfvRm/333305.ts
@@ -553,7 +553,7 @@ http://892863843947338291.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338291.ts
 http://892863843947338296.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338296.ts
 #EXTINF:-1,BR: TV CAMARA FHD
 http://892863843947338300.ofip231209.xyz:80/play/vi46597/QStErFfvRm/338300.ts
-#EXTINF:-1,BR: CONMEBOL 2 HEVC
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ", CONMEBOL 2 HEVC
 http://892863843947340961.ofip231209.xyz:80/play/vi46597/QStErFfvRm/340961.ts
 #EXTINF:-1,BR: NBA | LEAGUE PASS 07 HD
 http://892863843947343094.ofip231209.xyz:80/play/vi46597/QStErFfvRm/343094.ts
@@ -563,7 +563,7 @@ http://892863843947344638.ofip231209.xyz:80/play/vi46597/QStErFfvRm/344638.ts
 http://892863843947348534.ofip231209.xyz:80/play/vi46597/QStErFfvRm/348534.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE 5 HD
 http://892863843947389621.ofip231209.xyz:80/play/vi46597/QStErFfvRm/389621.ts
-#EXTINF:-1,BR: ESPN4 SD
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://i.imgur.com/Q3uBwEi.png" group-title="CANAIS | ESPN",ESPN 4  SD
 http://892863843947442685.ofip231209.xyz:80/play/vi46597/QStErFfvRm/442685.ts
 #EXTINF:-1,BR: NICK JUNIOR HD
 http://892863843947522979.ofip231209.xyz:80/play/vi46597/QStErFfvRm/522979.ts
@@ -571,7 +571,7 @@ http://892863843947522979.ofip231209.xyz:80/play/vi46597/QStErFfvRm/522979.ts
 http://892863843947554400.ofip231209.xyz:80/play/vi46597/QStErFfvRm/554400.ts
 #EXTINF:-1,BR: BAND SPORTS HEVC
 http://892863843947567521.ofip231209.xyz:80/play/vi46597/QStErFfvRm/567521.ts
-#EXTINF:-1,BR: ESPN2 HD
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD¹" tvg-logo="http://i.imgur.com/rD7co5A.png" group-title="CANAIS | ESPN",ESPN 2  HD
 http://892863843947588660.ofip231209.xyz:80/play/vi46597/QStErFfvRm/588660.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://imgur.com/d6aaGgO.png" group-title="CANAIS | PREMIERE", PREMIERE CLUBES HD
 http://892863843947603540.ofip231209.xyz:80/play/vi46597/QStErFfvRm/603540.ts
@@ -599,7 +599,7 @@ http://892863843947662670.ofip231209.xyz:80/play/vi46597/QStErFfvRm/662670.ts
 http://892863843947672394.ofip231209.xyz:80/play/vi46597/QStErFfvRm/672394.ts
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD¹" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO", HBO POP FHD
 http://892863843947672398.ofip231209.xyz:80/play/vi46597/QStErFfvRm/672398.ts
-#EXTINF:-1,BR: MULTISHOW FHD
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/1024px-Multishow.png" group-title="CANAIS | UHD (4K)",MULTISHOW SD
 http://892863843947673068.ofip231209.xyz:80/play/vi46597/QStErFfvRm/673068.ts
 #EXTINF:-1,BR: #EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="https://imgur.com/UI5Z3cf.png" group-title="CANAIS | TELECINE ", CULT FHD
 http://892863843947674936.ofip231209.xyz:80/play/vi46597/QStErFfvRm/674936.ts
@@ -611,7 +611,7 @@ http://892863843947676871.ofip231209.xyz:80/play/vi46597/QStErFfvRm/676871.ts
 http://892863843947689915.ofip231209.xyz:80/play/vi46597/QStErFfvRm/689915.ts
 #EXTINF:-1,BR: DISNEY CHANNEL HD
 http://892863843947691225.ofip231209.xyz:80/play/vi46597/QStErFfvRm/691225.ts
-#EXTINF:-1,BR: DISCOVERY KIDS FHD
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS | INFANTIL", DISCOVERY KIDS FHD
 http://892863843947693491.ofip231209.xyz:80/play/vi46597/QStErFfvRm/693491.ts
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD¹" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO" HBO 2 SD
 http://892863843947693493.ofip231209.xyz:80/play/vi46597/QStErFfvRm/693493.ts
@@ -629,11 +629,11 @@ http://892863843947708762.ofip231209.xyz:80/play/vi46597/QStErFfvRm/708762.ts
 http://892863843947708763.ofip231209.xyz:80/play/vi46597/QStErFfvRm/708763.ts
 #EXTINF:-1,BR: CNN BRASIL SD
 http://892863843947711790.ofip231209.xyz:80/play/vi46597/QStErFfvRm/711790.ts
-#EXTINF:-1,BR: DISCOVERY TURBO HD
+#EXTINF:-1,BR:#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO 4K¹" tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="CANAIS | UHD (4K)", DISCOVERY TURBO HD
 http://892863843947714285.ofip231209.xyz:80/play/vi46597/QStErFfvRm/714285.ts
 #EXTINF:-1,BR: CINEMAX FHD
 http://892863843947716460.ofip231209.xyz:80/play/vi46597/QStErFfvRm/716460.ts
-#EXTINF:-1,BR: COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Comedy Central" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS | VARIEDADES", COMEDY CENTRAL FHD
 http://892863843947716461.ofip231209.xyz:80/play/vi46597/QStErFfvRm/716461.ts
 #EXTINF:-1,BR: TBS HEVC
 http://892863843947716468.ofip231209.xyz:80/play/vi46597/QStErFfvRm/716468.ts
@@ -641,9 +641,9 @@ http://892863843947716468.ofip231209.xyz:80/play/vi46597/QStErFfvRm/716468.ts
 http://892863843947718300.ofip231209.xyz:80/play/vi46597/QStErFfvRm/718300.ts
 #EXTINF:-1,BR: TELECINE PIPOCA HEVC
 http://892863843947718301.ofip231209.xyz:80/play/vi46597/QStErFfvRm/718301.ts
-#EXTINF:-1,BR: DISCOVERY THEATER HEVC
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD¹" tvg-logo="http://i.imgur.com/qZ8RMRi.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER SD
 http://892863843947719114.ofip231209.xyz:80/play/vi46597/QStErFfvRm/719114.ts
-#EXTINF:-1,BR: HBO FAMILY SD
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD²" tvg-logo="https://i.pinimg.com/originals/a6/fd/c5/a6fdc5495a1a07ebc8fe692135d8de28.png" group-title="CANAIS | HBO",HBO FAMILY  SD
 http://892863843947720866.ofip231209.xyz:80/play/vi46597/QStErFfvRm/720866.ts
 #EXTINF:-1,BR: SPORTV HEVC
 http://892863843947722194.ofip231209.xyz:80/play/vi46597/QStErFfvRm/722194.ts
@@ -651,7 +651,7 @@ http://892863843947722194.ofip231209.xyz:80/play/vi46597/QStErFfvRm/722194.ts
 http://892863843947724201.ofip231209.xyz:80/play/vi46597/QStErFfvRm/724201.ts
 #EXTINF:-1,BR: UNIVERSAL CHANNEL HD
 http://892863843947724204.ofip231209.xyz:80/play/vi46597/QStErFfvRm/724204.ts
-#EXTINF:-1,BR: DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="http://i.imgur.com/AzFdZL1.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD
 http://892863843947726321.ofip231209.xyz:80/play/vi46597/QStErFfvRm/726321.ts
 #EXTINF:-1,BR: RECORD SP HD
 http://892863843947726951.ofip231209.xyz:80/play/vi46597/QStErFfvRm/726951.ts
@@ -663,7 +663,7 @@ http://892863843947730313.ofip231209.xyz:80/play/vi46597/QStErFfvRm/730313.ts
 http://892863843947732730.ofip231209.xyz:80/play/vi46597/QStErFfvRm/732730.ts
 #EXTINF:-1 tvg-id="" tvg-name="US2: TNT HD" tvg-logo="" group-title="CANAIS |VARIEDADES", TNT HD
 http://892863843947732735.ofip231209.xyz:80/play/vi46597/QStErFfvRm/732735.ts
-#EXTINF:-1,BR: DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE SD
 http://892863843947733454.ofip231209.xyz:80/play/vi46597/QStErFfvRm/733454.ts
 #EXTINF:-1,BR: WARNER FHD
 http://892863843947735242.ofip231209.xyz:80/play/vi46597/QStErFfvRm/735242.ts
@@ -689,7 +689,7 @@ http://892863843947740712.ofip231209.xyz:80/play/vi46597/QStErFfvRm/740712.ts
 http://892863843947740713.ofip231209.xyz:80/play/vi46597/QStErFfvRm/740713.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD²" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS | VARIEDADES", A&E HD
 http://892863843947741060.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741060.ts
-#EXTINF:-1,BR: DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://i.imgur.com/hqugBkC.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD
 http://892863843947741061.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741061.ts
 #EXTINF:-1 tvg-id="e.br" tvg-name="E! SD²" tvg-logo="https://imgur.com/qxfLv9r.png" group-title="CANAIS | VARIEDADES", E! SD
 http://892863843947741062.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741062.ts
@@ -697,7 +697,7 @@ http://892863843947741062.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741062.ts
 http://892863843947741063.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741063.ts
 #EXTINF:-1,BR: GNT HD
 http://892863843947741064.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741064.ts
-#EXTINF:-1,BR: HBO SIGNATURE HEVC
+#EXTINF:-1 tvg-id="" tvg-name="LA2: HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/A5ngplR.jpg" group-title="CANAIS | LATINOS (LA 2)",LA2: HBO SIGNATURE HEVC
 http://892863843947741065.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741065.ts
 #EXTINF:-1,BR: OFF FHD
 http://892863843947741066.ofip231209.xyz:80/play/vi46597/QStErFfvRm/741066.ts
@@ -836,11 +836,6 @@ https://rr1---sn-vgqskne6.googlevideo.com/videoplayback?expire=1704059749&ei=BY-
 #EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia no Espaço (1968)" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt76RZk6Eucfe7wrCmBGHFCXaCEKpyLGSpVWZ0ob41j82o4kPA" group-title="FILMES | AÇÃO", Uma Odisséia no Espaço (1968)
 https://drive.google.com/drive/folders/0BxYfydc53aj7LVdGemlTN2MxZmc?resourcekey=0-K3seOz2wN6nnJfkQ79OJHg
 Uma Odisséia no Espaço (1968)
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia no Espaço (1968)" tvg-logo="https://e7.pngegg.com/pngimages/998/642/png-clipart-angle-text-symbol-brand-music-music-player-logo-application-angle-text.png" group-title="FILMES | AÇÃO", musica
-https://www.youtube.com/watch?v=VnGn67taB_E
-
-
-
 
 
 
