@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,ES: LA 1 FHD tvg-id="LA" tvg-name="LA 1  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="CANAIS |  LA ", LA 1  FHD
+#EXTINF:-1,ES: LA 1 FHD tvg-id="LA" tvg-name="LA 1  FHD" 
 http://892863843947321276.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321276.ts
-#EXTINF:-1,ES: LA 1  HD tvg-id="LA" tvg-name=" LA 1  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="CANAIS |  LA ", LA 1  HD
+#EXTINF:-1,ES: LA 1  HD tvg-id="LA" tvg-name=" LA 1  HD"  
 http://892863843947321277.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321277.ts
 #EXTINF:-1,ES: LA 1 SD
 http://892863843947321278.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321278.ts
@@ -11,7 +11,7 @@ http://892863843947321279.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321279.ts
 http://892863843947321280.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321280.ts
 #EXTINF:-1,ES: LA 2 SD
 http://892863843947321281.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321281.ts
-#EXTINF:-1,ES: ANTENA 3 FHD group-title="CANAIS |  ANTENA 3 FHD", ANTENA 3 FHD
+#EXTINF:-1,ES: ANTENA 3 FHD 
 http://892863843947321105.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321105.ts
 #EXTINF:-1,ES: ANTENA 3 HD
 http://892863843947321106.ofip231209.xyz:80/play/vi46597/QStErFfvRm/321106.ts
